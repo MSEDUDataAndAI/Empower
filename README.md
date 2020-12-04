@@ -1,2 +1,2 @@
 # Empower
-Empower EDU Customer Data Teams
+Empower every Data-Person on the planet, to achieve More ...
