@@ -1,1 +1,0 @@
-EDU Reference Architecture
