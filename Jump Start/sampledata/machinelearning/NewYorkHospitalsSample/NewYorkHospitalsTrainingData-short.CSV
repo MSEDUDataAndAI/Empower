@@ -1,0 +1,1091 @@
+﻿Year,Facility_Id,Facility_Name,APR_DRG_Code,APR_Severity_of_Illness_Code,APR_DRG_Description,APR_Severity_of_Illness_Description,APR_Medical_Surgical_Code,APR_Medical_Surgical_Description,Discharges,Mean_Charge,Median_Charge,Mean_Cost,Median_Cost
+2013,325,Alice Hyde Medical Center,581,2,"Neonate, Transferred < 5 Days Old, Born Here",Moderate,M,Medical,2,1031.84,1031.84,327.14,327.14
+2013,325,Alice Hyde Medical Center,581,4,"Neonate, Transferred < 5 Days Old, Born Here",Extreme,M,Medical,1,1012.85,1012.85,353.37,353.37
+2013,325,Alice Hyde Medical Center,614,1,Neonate Bwt 1500-1999G W Or W/O Other Significant Condition,Minor,M,Medical,1,8043.65,8043.65,3075.02,3075.02
+2013,325,Alice Hyde Medical Center,614,2,Neonate Bwt 1500-1999G W Or W/O Other Significant Condition,Moderate,M,Medical,1,1073.17,1073.17,329.44,329.44
+2013,325,Alice Hyde Medical Center,621,1,Neonate Bwt 2000-2499G W Major Anomaly,Minor,M,Medical,1,1208.18,1208.18,363.66,363.66
+2013,325,Alice Hyde Medical Center,626,1,"Neonate Bwt 2000-2499G, Normal Newborn Or Neonate W Other Problem",Minor,M,Medical,10,1475.42,1456.83,557.52,560.37
+2013,325,Alice Hyde Medical Center,626,2,"Neonate Bwt 2000-2499G, Normal Newborn Or Neonate W Other Problem",Moderate,M,Medical,3,1716.71,1368.76,642.54,531.91
+2013,325,Alice Hyde Medical Center,633,1,Neonate Birthwt >2499G W Major Anomaly,Minor,M,Medical,1,804.83,804.83,325,325
+2013,325,Alice Hyde Medical Center,639,1,Neonate Birthwt >2499G W Other Significant Condition,Minor,M,Medical,1,1045.16,1045.16,404.64,404.64
+2013,116,Arnot Ogden Medical Center,20,1,Craniotomy For Trauma,Minor,P,Surgical,3,39879.74,38737.81,14409.67,14285.15
+2013,325,Alice Hyde Medical Center,640,1,"Neonate Birthwt >2499G, Normal Newborn Or Neonate W Other Problem",Minor,M,Medical,242,1325.5,1359.83,523.37,528.51
+2013,325,Alice Hyde Medical Center,640,2,"Neonate Birthwt >2499G, Normal Newborn Or Neonate W Other Problem",Moderate,M,Medical,23,1823.77,1729.84,675.22,627.05
+2013,325,Alice Hyde Medical Center,640,3,"Neonate Birthwt >2499G, Normal Newborn Or Neonate W Other Problem",Major,M,Medical,2,3198.15,3198.15,1152.61,1152.61
+2013,325,Alice Hyde Medical Center,660,1,Major Hematologic/Immunologic Diag Exc Sickle Cell Crisis & Coagul,Minor,M,Medical,1,3418.76,3418.76,1422.97,1422.97
+2013,325,Alice Hyde Medical Center,660,2,Major Hematologic/Immunologic Diag Exc Sickle Cell Crisis & Coagul,Moderate,M,Medical,3,19162.26,21559.06,8547.09,9309.28
+2013,325,Alice Hyde Medical Center,660,3,Major Hematologic/Immunologic Diag Exc Sickle Cell Crisis & Coagul,Major,M,Medical,8,20048.23,18261.49,9578.06,7397.6
+2013,325,Alice Hyde Medical Center,662,1,Sickle Cell Anemia Crisis,Minor,M,Medical,1,8247.7,8247.7,2659.98,2659.98
+2013,325,Alice Hyde Medical Center,663,1,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Minor,M,Medical,8,6252.57,5548.24,2698.11,2081.04
+2013,325,Alice Hyde Medical Center,663,2,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Moderate,M,Medical,22,9887.52,9306.91,4854.68,2893.79
+2013,325,Alice Hyde Medical Center,663,3,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Major,M,Medical,12,12712.48,8432.18,4692.05,3284.79
+2013,325,Alice Hyde Medical Center,663,4,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Extreme,M,Medical,4,12021.17,11050.48,4105.85,3850.04
+2013,325,Alice Hyde Medical Center,681,2,Other O.R. Procedures For Lymphatic/Hematopoietic/Other Neoplasms,Moderate,P,Surgical,1,17803.76,17803.76,4746.14,4746.14
+2013,325,Alice Hyde Medical Center,690,2,Acute Leukemia,Moderate,M,Medical,1,49080.42,49080.42,18670.51,18670.51
+2013,325,Alice Hyde Medical Center,691,2,"Lymphoma, Myeloma & Non-Acute Leukemia",Moderate,M,Medical,1,7238.25,7238.25,2728.94,2728.94
+2013,325,Alice Hyde Medical Center,691,3,"Lymphoma, Myeloma & Non-Acute Leukemia",Major,M,Medical,1,31482.03,31482.03,9743.9,9743.9
+2013,325,Alice Hyde Medical Center,691,4,"Lymphoma, Myeloma & Non-Acute Leukemia",Extreme,M,Medical,1,6627.33,6627.33,2379.16,2379.16
+2013,325,Alice Hyde Medical Center,694,2,Lymphatic & Other Malignancies & Neoplasms Of Uncertain Behavior,Moderate,M,Medical,1,5159.04,5159.04,1929.07,1929.07
+2013,325,Alice Hyde Medical Center,694,3,Lymphatic & Other Malignancies & Neoplasms Of Uncertain Behavior,Major,M,Medical,1,14244.89,14244.89,4235.91,4235.91
+2013,325,Alice Hyde Medical Center,710,2,Infectious & Parasitic Diseases Including Hiv W O.R. Procedure,Moderate,P,Surgical,2,14052.91,14052.91,8384.07,8384.07
+2013,325,Alice Hyde Medical Center,710,3,Infectious & Parasitic Diseases Including Hiv W O.R. Procedure,Major,P,Surgical,3,33599.59,34227.15,18594.49,17271.43
+2013,325,Alice Hyde Medical Center,710,4,Infectious & Parasitic Diseases Including Hiv W O.R. Procedure,Extreme,P,Surgical,4,38695.15,35794.96,26699.72,15292.02
+2013,325,Alice Hyde Medical Center,711,1,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Minor,P,Surgical,2,10618.74,10618.74,3734.94,3734.94
+2013,325,Alice Hyde Medical Center,711,2,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Moderate,P,Surgical,1,11131.97,11131.97,4147.4,4147.4
+2013,325,Alice Hyde Medical Center,711,3,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Major,P,Surgical,1,11579.81,11579.81,4303.72,4303.72
+2013,325,Alice Hyde Medical Center,720,1,Septicemia & Disseminated Infections,Minor,M,Medical,2,8794.5,8794.5,2495.89,2495.89
+2013,325,Alice Hyde Medical Center,720,2,Septicemia & Disseminated Infections,Moderate,M,Medical,46,8015.4,8175.25,2831.37,2480.02
+2013,325,Alice Hyde Medical Center,720,3,Septicemia & Disseminated Infections,Major,M,Medical,60,12951.77,10468.65,7306.05,3889.89
+2013,325,Alice Hyde Medical Center,720,4,Septicemia & Disseminated Infections,Extreme,M,Medical,17,19508.86,18142.11,15386.18,14265.19
+2013,325,Alice Hyde Medical Center,721,2,"Post-Operative, Post-Traumatic, Other Device Infections",Moderate,M,Medical,2,8665.08,8665.08,2646.28,2646.28
+2013,325,Alice Hyde Medical Center,721,3,"Post-Operative, Post-Traumatic, Other Device Infections",Major,M,Medical,2,10194.6,10194.6,5698.58,5698.58
+2013,325,Alice Hyde Medical Center,751,2,Major Depressive Disorders & Other/Unspecified Psychoses,Moderate,M,Medical,1,3368.95,3368.95,852.64,852.64
+2013,325,Alice Hyde Medical Center,754,2,Depression Except Major Depressive Disorder,Moderate,M,Medical,1,8319.98,8319.98,6224.71,6224.71
+2013,325,Alice Hyde Medical Center,756,1,Acute Anxiety & Delirium States,Minor,M,Medical,2,3507.14,3507.14,1169.62,1169.62
+2013,325,Alice Hyde Medical Center,756,3,Acute Anxiety & Delirium States,Major,M,Medical,1,4870.17,4870.17,5476.98,5476.98
+2013,325,Alice Hyde Medical Center,757,2,Organic Mental Health Disturbances,Moderate,M,Medical,2,9718.47,9718.47,3223.98,3223.98
+2013,325,Alice Hyde Medical Center,757,3,Organic Mental Health Disturbances,Major,M,Medical,2,8761.44,8761.44,2867.88,2867.88
+2013,325,Alice Hyde Medical Center,770,2,"Drug & Alcohol Abuse Or Dependence, Left Against Medical Advice",Moderate,M,Medical,1,3641.72,3641.72,1226.79,1226.79
+2013,325,Alice Hyde Medical Center,775,1,Alcohol Abuse & Dependence,Minor,M,Medical,1,4819.03,4819.03,1659.11,1659.11
+2013,325,Alice Hyde Medical Center,775,2,Alcohol Abuse & Dependence,Moderate,M,Medical,4,7135.96,6550.42,4815.89,3772.57
+2013,325,Alice Hyde Medical Center,775,3,Alcohol Abuse & Dependence,Major,M,Medical,2,8550.7,8550.7,8021.49,8021.49
+2013,325,Alice Hyde Medical Center,791,1,O.R. Procedure For Other Complications Of Treatment,Minor,P,Surgical,2,13001.04,13001.04,8706.19,8706.19
+2013,325,Alice Hyde Medical Center,811,2,Allergic Reactions,Moderate,M,Medical,1,3941.63,3941.63,5216.59,5216.59
+2013,325,Alice Hyde Medical Center,812,1,Poisoning Of Medicinal Agents,Minor,M,Medical,1,3719.36,3719.36,5098.33,5098.33
+2013,325,Alice Hyde Medical Center,812,2,Poisoning Of Medicinal Agents,Moderate,M,Medical,13,6653.92,6440.14,7785.71,6009.96
+2013,325,Alice Hyde Medical Center,812,3,Poisoning Of Medicinal Agents,Major,M,Medical,5,11141.73,10612.65,10185.37,10916.16
+2013,325,Alice Hyde Medical Center,816,2,Toxic Effects Of Non-Medicinal Substances,Moderate,M,Medical,2,5964.4,5964.4,4701.76,4701.76
+2013,325,Alice Hyde Medical Center,816,3,Toxic Effects Of Non-Medicinal Substances,Major,M,Medical,1,5751.47,5751.47,1556.46,1556.46
+2013,325,Alice Hyde Medical Center,861,1,"Signs, Symptoms & Other Factors Influencing Health Status",Minor,M,Medical,6,5727.03,3757.31,4080.96,4623.62
+2013,325,Alice Hyde Medical Center,861,2,"Signs, Symptoms & Other Factors Influencing Health Status",Moderate,M,Medical,8,9388.54,8259.02,3564.48,2704.48
+2013,325,Alice Hyde Medical Center,861,3,"Signs, Symptoms & Other Factors Influencing Health Status",Major,M,Medical,3,8578.42,8703.71,3106.89,3116.56
+2013,325,Alice Hyde Medical Center,863,1,Neonatal Aftercare,Minor,M,Medical,1,2861.5,2861.5,1089.44,1089.44
+2013,325,Alice Hyde Medical Center,930,4,Multiple Significant Trauma W/O O.R. Procedure,Extreme,M,Medical,1,42255.08,42255.08,30855.22,30855.22
+2013,325,Alice Hyde Medical Center,950,3,Extensive Procedure Unrelated To Principal Diagnosis,Major,P,Surgical,1,50121.79,50121.79,29909.67,29909.67
+2013,325,Alice Hyde Medical Center,951,2,Moderately Extensive Procedure Unrelated To Principal Diagnosis,Moderate,P,Surgical,1,12935.45,12935.45,4343.67,4343.67
+2013,325,Alice Hyde Medical Center,951,3,Moderately Extensive Procedure Unrelated To Principal Diagnosis,Major,P,Surgical,1,22976.25,22976.25,15568.48,15568.48
+2013,325,Alice Hyde Medical Center,952,1,Nonextensive Procedure Unrelated To Principal Diagnosis,Minor,P,Surgical,1,9061,9061,3877.16,3877.16
+2013,116,Arnot Ogden Medical Center,4,1,Tracheostomy W MV 96+ Hours W Extensive Procedure Or Ecmo,Minor,P,Surgical,1,46471.92,46471.92,11035.6,11035.6
+2013,116,Arnot Ogden Medical Center,4,3,Tracheostomy W MV 96+ Hours W Extensive Procedure Or Ecmo,Major,P,Surgical,1,123832.01,123832.01,36716.71,36716.71
+2013,116,Arnot Ogden Medical Center,4,4,Tracheostomy W MV 96+ Hours W Extensive Procedure Or Ecmo,Extreme,P,Surgical,7,240210.05,238418.53,75938.17,72958.55
+2013,116,Arnot Ogden Medical Center,5,3,Tracheostomy W MV 96+ Hours W/O Extensive Procedure,Major,P,Surgical,1,115506.79,115506.79,37592.41,37592.41
+2013,116,Arnot Ogden Medical Center,5,4,Tracheostomy W MV 96+ Hours W/O Extensive Procedure,Extreme,P,Surgical,8,207500.04,195863.08,66137.06,65080.09
+2013,116,Arnot Ogden Medical Center,20,2,Craniotomy For Trauma,Moderate,P,Surgical,1,38295.55,38295.55,12744.25,12744.25
+2013,116,Arnot Ogden Medical Center,20,4,Craniotomy For Trauma,Extreme,P,Surgical,4,154233.01,165574.47,48445.01,51901.29
+2013,116,Arnot Ogden Medical Center,21,1,Craniotomy Except For Trauma,Minor,P,Surgical,5,44887.24,41650.15,13699.53,13221.74
+2013,116,Arnot Ogden Medical Center,21,2,Craniotomy Except For Trauma,Moderate,P,Surgical,9,74154.21,78769.93,21682.44,23778.23
+2013,116,Arnot Ogden Medical Center,21,3,Craniotomy Except For Trauma,Major,P,Surgical,7,106207.95,100034.96,33172.3,29973.82
+2013,116,Arnot Ogden Medical Center,21,4,Craniotomy Except For Trauma,Extreme,P,Surgical,5,171675.55,142226.47,50421.73,41372.79
+2013,116,Arnot Ogden Medical Center,22,1,Ventricular Shunt Procedures,Minor,P,Surgical,2,20650.3,20650.3,7625.61,7625.61
+2013,116,Arnot Ogden Medical Center,22,2,Ventricular Shunt Procedures,Moderate,P,Surgical,1,29629.64,29629.64,10011.1,10011.1
+2013,116,Arnot Ogden Medical Center,22,4,Ventricular Shunt Procedures,Extreme,P,Surgical,1,48762.41,48762.41,14521.63,14521.63
+2013,116,Arnot Ogden Medical Center,23,1,Spinal Procedures,Minor,P,Surgical,1,17367.09,17367.09,6735.43,6735.43
+2013,116,Arnot Ogden Medical Center,23,2,Spinal Procedures,Moderate,P,Surgical,2,27555.14,27555.14,10232.32,10232.32
+2013,116,Arnot Ogden Medical Center,23,3,Spinal Procedures,Major,P,Surgical,3,169403.85,188975.56,72609.29,79588.08
+2013,116,Arnot Ogden Medical Center,24,1,Extracranial Vascular Procedures,Minor,P,Surgical,20,16787.46,13807.49,5133.46,4183.45
+2013,116,Arnot Ogden Medical Center,24,2,Extracranial Vascular Procedures,Moderate,P,Surgical,19,19750.77,16863.61,6192.23,5410.92
+2013,116,Arnot Ogden Medical Center,24,3,Extracranial Vascular Procedures,Major,P,Surgical,3,48091.46,50900.11,16857.38,16645.01
+2013,116,Arnot Ogden Medical Center,24,4,Extracranial Vascular Procedures,Extreme,P,Surgical,2,72427.61,72427.61,21431.42,21431.42
+2013,116,Arnot Ogden Medical Center,26,2,Other Nervous System & Related Procedures,Moderate,P,Surgical,2,32701.95,32701.95,11549.9,11549.9
+2013,116,Arnot Ogden Medical Center,26,3,Other Nervous System & Related Procedures,Major,P,Surgical,3,39886.67,42443.36,13822.55,14390.68
+2013,116,Arnot Ogden Medical Center,26,4,Other Nervous System & Related Procedures,Extreme,P,Surgical,2,73893.78,73893.78,25302.28,25302.28
+2013,116,Arnot Ogden Medical Center,40,2,Spinal Disorders & Injuries,Moderate,M,Medical,1,42471.23,42471.23,13087.5,13087.5
+2013,116,Arnot Ogden Medical Center,40,3,Spinal Disorders & Injuries,Major,M,Medical,3,31750.75,24193.54,10526.09,7050.09
+2013,116,Arnot Ogden Medical Center,41,2,Nervous System Malignancy,Moderate,M,Medical,3,15256.07,11489.51,5117.39,4619.16
+2013,116,Arnot Ogden Medical Center,41,3,Nervous System Malignancy,Major,M,Medical,11,27642.67,17154.53,9156.58,4463.91
+2013,116,Arnot Ogden Medical Center,41,4,Nervous System Malignancy,Extreme,M,Medical,1,24564.92,24564.92,8451.87,8451.87
+2013,116,Arnot Ogden Medical Center,42,2,Degenerative Nervous System Disorders Exc Mult Sclerosis,Moderate,M,Medical,6,13628.67,11213.52,6002.16,5990.26
+2013,116,Arnot Ogden Medical Center,42,3,Degenerative Nervous System Disorders Exc Mult Sclerosis,Major,M,Medical,4,15435.65,15434.23,5915.88,5900.6
+2013,116,Arnot Ogden Medical Center,42,4,Degenerative Nervous System Disorders Exc Mult Sclerosis,Extreme,M,Medical,1,57539.11,57539.11,22559.6,22559.6
+2013,116,Arnot Ogden Medical Center,43,1,Multiple Sclerosis & Other Demyelinating Diseases,Minor,M,Medical,3,11048.47,9158.27,2882.76,2605.77
+2013,116,Arnot Ogden Medical Center,43,2,Multiple Sclerosis & Other Demyelinating Diseases,Moderate,M,Medical,4,29835.28,18597.97,9098.21,5687.27
+2013,116,Arnot Ogden Medical Center,44,1,Intracranial Hemorrhage,Minor,M,Medical,4,11674.87,12816.29,4203.4,4527.39
+2013,116,Arnot Ogden Medical Center,44,2,Intracranial Hemorrhage,Moderate,M,Medical,7,21223.11,18997.42,7065.4,6284.95
+2013,116,Arnot Ogden Medical Center,44,3,Intracranial Hemorrhage,Major,M,Medical,14,34035.14,33966.92,12001.74,11614.3
+2013,116,Arnot Ogden Medical Center,44,4,Intracranial Hemorrhage,Extreme,M,Medical,3,19154.43,16196.73,5132.01,4508.37
+2013,116,Arnot Ogden Medical Center,45,1,CVA & Precerebral Occlusion W Infarct,Minor,M,Medical,30,17161.08,16725.11,5383.71,5222.15
+2013,116,Arnot Ogden Medical Center,45,2,CVA & Precerebral Occlusion W Infarct,Moderate,M,Medical,94,17074.97,15983.13,5846.6,5195.47
+2013,116,Arnot Ogden Medical Center,45,3,CVA & Precerebral Occlusion W Infarct,Major,M,Medical,25,24202.03,18998.67,8884.83,6733.41
+2013,116,Arnot Ogden Medical Center,45,4,CVA & Precerebral Occlusion W Infarct,Extreme,M,Medical,5,25133.58,16634.38,7601.62,3979.08
+2013,116,Arnot Ogden Medical Center,46,1,Nonspecific CVA & Precerebral Occlusion W/O Infarct,Minor,M,Medical,1,9571.05,9571.05,2634.17,2634.17
+2013,116,Arnot Ogden Medical Center,46,2,Nonspecific CVA & Precerebral Occlusion W/O Infarct,Moderate,M,Medical,3,11344.99,10189.33,3569.82,3151.58
+2013,116,Arnot Ogden Medical Center,47,1,Transient Ischemia,Minor,M,Medical,17,12994.83,11357.15,4061.91,3318.1
+2013,116,Arnot Ogden Medical Center,47,2,Transient Ischemia,Moderate,M,Medical,47,15403.37,13529.47,4891.52,4423.03
+2013,116,Arnot Ogden Medical Center,47,3,Transient Ischemia,Major,M,Medical,13,18455.97,19291.73,6196.48,6444.88
+2013,116,Arnot Ogden Medical Center,48,1,"Peripheral, Cranial & Autonomic Nerve Disorders",Minor,M,Medical,2,14587.53,14587.53,5270.72,5270.72
+2013,116,Arnot Ogden Medical Center,48,2,"Peripheral, Cranial & Autonomic Nerve Disorders",Moderate,M,Medical,14,13311.05,13118.65,4711.66,4857.29
+2013,116,Arnot Ogden Medical Center,48,3,"Peripheral, Cranial & Autonomic Nerve Disorders",Major,M,Medical,6,23736.74,23000.26,8650.1,9265.39
+2013,116,Arnot Ogden Medical Center,49,1,Bacterial & Tuberculous Infections Of Nervous System,Minor,M,Medical,1,20194.8,20194.8,9469.91,9469.91
+2013,116,Arnot Ogden Medical Center,49,2,Bacterial & Tuberculous Infections Of Nervous System,Moderate,M,Medical,2,88846.22,88846.22,27330.98,27330.98
+2013,116,Arnot Ogden Medical Center,49,3,Bacterial & Tuberculous Infections Of Nervous System,Major,M,Medical,1,45910.74,45910.74,12894.7,12894.7
+2013,116,Arnot Ogden Medical Center,49,4,Bacterial & Tuberculous Infections Of Nervous System,Extreme,M,Medical,1,80745.35,80745.35,28676.43,28676.43
+2013,116,Arnot Ogden Medical Center,50,2,Non-Bacterial Infections Of Nervous System Exc Viral Meningitis,Moderate,M,Medical,1,22965.5,22965.5,8388.16,8388.16
+2013,116,Arnot Ogden Medical Center,51,1,Viral Meningitis,Minor,M,Medical,8,9904.86,8821.37,4000.57,4030.63
+2013,116,Arnot Ogden Medical Center,51,2,Viral Meningitis,Moderate,M,Medical,6,18141.04,17131.41,7684.77,7587.48
+2013,116,Arnot Ogden Medical Center,51,3,Viral Meningitis,Major,M,Medical,3,51666.05,40845.23,17172.29,15176.47
+2013,116,Arnot Ogden Medical Center,52,1,Nontraumatic Stupor & Coma,Minor,M,Medical,1,11639.96,11639.96,4192.17,4192.17
+2013,116,Arnot Ogden Medical Center,52,2,Nontraumatic Stupor & Coma,Moderate,M,Medical,9,17916.49,16701.62,6244.91,5982.51
+2013,116,Arnot Ogden Medical Center,52,3,Nontraumatic Stupor & Coma,Major,M,Medical,15,17182.65,13303.23,6300.72,4917.49
+2013,116,Arnot Ogden Medical Center,52,4,Nontraumatic Stupor & Coma,Extreme,M,Medical,4,15045.58,13272.37,4083.47,4170.86
+2013,116,Arnot Ogden Medical Center,53,1,Seizure,Minor,M,Medical,28,7636.08,7856.46,2675.74,2341.52
+2013,116,Arnot Ogden Medical Center,53,2,Seizure,Moderate,M,Medical,37,11213.32,10204.28,3715.08,3299.25
+2013,116,Arnot Ogden Medical Center,53,3,Seizure,Major,M,Medical,12,18645.42,17684.36,7135.84,6650.23
+2013,116,Arnot Ogden Medical Center,53,4,Seizure,Extreme,M,Medical,3,53482.76,54186.49,17621.37,17061.03
+2013,116,Arnot Ogden Medical Center,54,1,Migraine & Other Headaches,Minor,M,Medical,13,10734.77,10040.38,3297.9,2802.35
+2013,116,Arnot Ogden Medical Center,54,2,Migraine & Other Headaches,Moderate,M,Medical,9,10309.14,8894.68,3353.35,2926.82
+2013,116,Arnot Ogden Medical Center,54,3,Migraine & Other Headaches,Major,M,Medical,1,30684.48,30684.48,12123.56,12123.56
+2013,116,Arnot Ogden Medical Center,55,1,Head Trauma W Coma >1 Hr Or Hemorrhage,Minor,M,Medical,1,10320.92,10320.92,4251.44,4251.44
+2013,116,Arnot Ogden Medical Center,55,2,Head Trauma W Coma >1 Hr Or Hemorrhage,Moderate,M,Medical,14,17005.88,14095.97,5066.73,3141.9
+2013,116,Arnot Ogden Medical Center,55,3,Head Trauma W Coma >1 Hr Or Hemorrhage,Major,M,Medical,6,34629.22,17495.44,12197.59,5842.05
+2013,116,Arnot Ogden Medical Center,55,4,Head Trauma W Coma >1 Hr Or Hemorrhage,Extreme,M,Medical,3,46844,43175.72,15613.3,12827.01
+2013,116,Arnot Ogden Medical Center,56,1,"Brain Contusion/Laceration & Complicated Skull Fx, Coma < 1 Hr Or No Coma",Minor,M,Medical,2,17232.21,17232.21,5103.13,5103.13
+2013,116,Arnot Ogden Medical Center,56,2,"Brain Contusion/Laceration & Complicated Skull Fx, Coma < 1 Hr Or No Coma",Moderate,M,Medical,2,10312.88,10312.88,1983.76,1983.76
+2013,116,Arnot Ogden Medical Center,56,3,"Brain Contusion/Laceration & Complicated Skull Fx, Coma < 1 Hr Or No Coma",Major,M,Medical,2,26675.85,26675.85,8205.14,8205.14
+2013,116,Arnot Ogden Medical Center,57,1,"Concussion, Closed Skull Fx Nos,Uncomplicated Intracranial Injury, Coma < 1 Hr Or No Coma",Minor,M,Medical,2,8916.28,8916.28,1570.66,1570.66
+2013,116,Arnot Ogden Medical Center,57,2,"Concussion, Closed Skull Fx Nos,Uncomplicated Intracranial Injury, Coma < 1 Hr Or No Coma",Moderate,M,Medical,3,14375.76,17600.4,4063.53,4060.13
+2013,116,Arnot Ogden Medical Center,57,3,"Concussion, Closed Skull Fx Nos,Uncomplicated Intracranial Injury, Coma < 1 Hr Or No Coma",Major,M,Medical,1,64024.72,64024.72,21332.78,21332.78
+2013,116,Arnot Ogden Medical Center,58,1,Other Disorders Of Nervous System,Minor,M,Medical,6,9644.38,9189.13,3415.86,3316.84
+2013,116,Arnot Ogden Medical Center,58,2,Other Disorders Of Nervous System,Moderate,M,Medical,16,11952.46,10688.98,4138.62,3352.39
+2013,116,Arnot Ogden Medical Center,58,3,Other Disorders Of Nervous System,Major,M,Medical,8,17224.06,15485.58,5876.69,4868.97
+2013,116,Arnot Ogden Medical Center,70,2,Orbital Procedures,Moderate,P,Surgical,2,19610.08,19610.08,6599.79,6599.79
+2013,116,Arnot Ogden Medical Center,80,1,Acute Major Eye Infections,Minor,M,Medical,2,9967.78,9967.78,4739.64,4739.64
+2013,116,Arnot Ogden Medical Center,80,2,Acute Major Eye Infections,Moderate,M,Medical,1,13045.1,13045.1,6841.79,6841.79
+2013,116,Arnot Ogden Medical Center,82,1,Eye Disorders Except Major Infections,Minor,M,Medical,2,14709.97,14709.97,5314.25,5314.25
+2013,116,Arnot Ogden Medical Center,82,2,Eye Disorders Except Major Infections,Moderate,M,Medical,1,10258.32,10258.32,3501.12,3501.12
+2013,116,Arnot Ogden Medical Center,89,1,Major Cranial/Facial Bone Procedures,Minor,P,Surgical,1,36103.12,36103.12,11444.05,11444.05
+2013,116,Arnot Ogden Medical Center,89,2,Major Cranial/Facial Bone Procedures,Moderate,P,Surgical,1,38285.91,38285.91,13585.59,13585.59
+2013,116,Arnot Ogden Medical Center,92,2,Facial Bone Procedures Except Major Cranial/Facial Bone Procedures,Moderate,P,Surgical,1,27017.97,27017.97,9483.55,9483.55
+2013,116,Arnot Ogden Medical Center,93,2,Sinus & Mastoid Procedures,Moderate,P,Surgical,1,25194.87,25194.87,9389.64,9389.64
+2013,116,Arnot Ogden Medical Center,97,1,Tonsil & Adenoid Procedures,Minor,P,Surgical,5,8402.81,8925.58,2359.6,2333.42
+2013,116,Arnot Ogden Medical Center,97,2,Tonsil & Adenoid Procedures,Moderate,P,Surgical,2,16372.38,16372.38,5490.4,5490.4
+2013,116,Arnot Ogden Medical Center,97,3,Tonsil & Adenoid Procedures,Major,P,Surgical,1,12482.97,12482.97,4325.67,4325.67
+2013,116,Arnot Ogden Medical Center,98,1,"Other Ear, Nose, Mouth & Throat Procedures",Minor,P,Surgical,1,12956.15,12956.15,3339.94,3339.94
+2013,116,Arnot Ogden Medical Center,98,2,"Other Ear, Nose, Mouth & Throat Procedures",Moderate,P,Surgical,4,25047.13,13541.92,8156.55,4588.01
+2013,116,Arnot Ogden Medical Center,110,3,"Ear, Nose, Mouth, Throat, Cranial/Facial Malignancies",Major,M,Medical,1,7399.52,7399.52,3555.21,3555.21
+2013,116,Arnot Ogden Medical Center,111,1,Vertigo & Other Labyrinth Disorders,Minor,M,Medical,6,14298.35,14255.34,4382.25,4375.42
+2013,116,Arnot Ogden Medical Center,111,2,Vertigo & Other Labyrinth Disorders,Moderate,M,Medical,12,16662.6,15529.6,5595.48,4620.58
+2013,116,Arnot Ogden Medical Center,113,1,Infections Of Upper Respiratory Tract,Minor,M,Medical,5,6601.56,5233.18,2495.5,2427.81
+2013,116,Arnot Ogden Medical Center,113,2,Infections Of Upper Respiratory Tract,Moderate,M,Medical,14,8512.31,7124.97,2946.87,2284.74
+2013,116,Arnot Ogden Medical Center,113,3,Infections Of Upper Respiratory Tract,Major,M,Medical,2,11322.81,11322.81,4511.16,4511.16
+2013,116,Arnot Ogden Medical Center,114,1,Dental & Oral Diseases & Injuries,Minor,M,Medical,1,2698.97,2698.97,2170.1,2170.1
+2013,116,Arnot Ogden Medical Center,114,2,Dental & Oral Diseases & Injuries,Moderate,M,Medical,5,11276.89,8622.4,4701.17,4921.08
+2013,116,Arnot Ogden Medical Center,115,1,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Minor,M,Medical,5,8719.87,7614.73,3245.79,3074.36
+2013,116,Arnot Ogden Medical Center,115,2,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Moderate,M,Medical,6,12885.32,9807.19,4583.73,3358.43
+2013,116,Arnot Ogden Medical Center,115,3,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Major,M,Medical,2,24418.67,24418.67,8673.44,8673.44
+2013,116,Arnot Ogden Medical Center,120,1,Major Respiratory & Chest Procedures,Minor,P,Surgical,2,36101.85,36101.85,11049.08,11049.08
+2013,116,Arnot Ogden Medical Center,120,2,Major Respiratory & Chest Procedures,Moderate,P,Surgical,3,47119.77,42353.49,14820.2,11961.25
+2013,116,Arnot Ogden Medical Center,120,3,Major Respiratory & Chest Procedures,Major,P,Surgical,10,64373.46,64948.46,22701.84,22637.09
+2013,116,Arnot Ogden Medical Center,120,4,Major Respiratory & Chest Procedures,Extreme,P,Surgical,2,102079.81,102079.81,31098.1,31098.1
+2013,116,Arnot Ogden Medical Center,121,1,Other Respiratory & Chest Procedures,Minor,P,Surgical,8,22288.23,23054.81,6719.55,6300.5
+2013,116,Arnot Ogden Medical Center,121,2,Other Respiratory & Chest Procedures,Moderate,P,Surgical,16,29133.96,25245.51,9981.04,9559.81
+2013,116,Arnot Ogden Medical Center,121,3,Other Respiratory & Chest Procedures,Major,P,Surgical,5,56412.73,55521.54,18531.2,16557.67
+2013,116,Arnot Ogden Medical Center,121,4,Other Respiratory & Chest Procedures,Extreme,P,Surgical,3,101039.29,73910.95,33898.71,24916.2
+2013,116,Arnot Ogden Medical Center,130,2,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Moderate,M,Medical,1,48576.21,48576.21,17444.6,17444.6
+2013,116,Arnot Ogden Medical Center,130,3,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Major,M,Medical,4,67085.01,62307.19,22792.88,19551
+2013,116,Arnot Ogden Medical Center,130,4,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Extreme,M,Medical,10,78183.52,79680.88,25882.25,26608.38
+2013,116,Arnot Ogden Medical Center,131,2,Cystic Fibrosis - Pulmonary Disease,Moderate,M,Medical,1,7101.77,7101.77,2349.49,2349.49
+2013,116,Arnot Ogden Medical Center,131,3,Cystic Fibrosis - Pulmonary Disease,Major,M,Medical,2,26466.63,26466.63,10634.22,10634.22
+2013,116,Arnot Ogden Medical Center,131,4,Cystic Fibrosis - Pulmonary Disease,Extreme,M,Medical,1,3418.75,3418.75,1880.51,1880.51
+2013,116,Arnot Ogden Medical Center,132,2,Bpd & Oth Chronic Respiratory Diseases Arising In Perinatal Period,Moderate,M,Medical,1,2233.72,2233.72,1053.47,1053.47
+2013,116,Arnot Ogden Medical Center,132,4,Bpd & Oth Chronic Respiratory Diseases Arising In Perinatal Period,Extreme,M,Medical,1,195197.79,195197.79,77024.92,77024.92
+2013,116,Arnot Ogden Medical Center,133,1,Pulmonary Edema & Respiratory Failure,Minor,M,Medical,1,2485.05,2485.05,1163,1163
+2013,116,Arnot Ogden Medical Center,133,2,Pulmonary Edema & Respiratory Failure,Moderate,M,Medical,41,14815.78,14101.47,5835.78,5587.41
+2013,116,Arnot Ogden Medical Center,133,3,Pulmonary Edema & Respiratory Failure,Major,M,Medical,96,19953.77,19207.64,7475.02,7366.98
+2013,116,Arnot Ogden Medical Center,133,4,Pulmonary Edema & Respiratory Failure,Extreme,M,Medical,36,32832.74,26889.73,11589.86,9556.25
+2013,116,Arnot Ogden Medical Center,134,1,Pulmonary Embolism,Minor,M,Medical,12,13568.73,11947.1,4916.98,4494.74
+2013,116,Arnot Ogden Medical Center,134,2,Pulmonary Embolism,Moderate,M,Medical,27,19469.47,18313.68,6914.13,6611.39
+2013,116,Arnot Ogden Medical Center,134,3,Pulmonary Embolism,Major,M,Medical,10,31898.9,21938.78,11233.53,7563.81
+2013,116,Arnot Ogden Medical Center,134,4,Pulmonary Embolism,Extreme,M,Medical,5,32889.79,25439.46,10515.97,7851.76
+2013,116,Arnot Ogden Medical Center,135,1,Major Chest & Respiratory Trauma,Minor,M,Medical,4,22997.03,22172.61,8330.92,7188.95
+2013,116,Arnot Ogden Medical Center,135,2,Major Chest & Respiratory Trauma,Moderate,M,Medical,7,14989.31,14740.27,5256.22,5699.43
+2013,116,Arnot Ogden Medical Center,135,3,Major Chest & Respiratory Trauma,Major,M,Medical,3,34469.75,34043.02,11192.05,12010.32
+2013,116,Arnot Ogden Medical Center,135,4,Major Chest & Respiratory Trauma,Extreme,M,Medical,1,66190.1,66190.1,22754.69,22754.69
+2013,116,Arnot Ogden Medical Center,136,2,Respiratory Malignancy,Moderate,M,Medical,7,22658.44,19310.08,7002.79,5912.08
+2013,116,Arnot Ogden Medical Center,136,3,Respiratory Malignancy,Major,M,Medical,23,21890.42,18665.48,7301.87,6082.57
+2013,116,Arnot Ogden Medical Center,136,4,Respiratory Malignancy,Extreme,M,Medical,6,34364.5,32633.87,10687.29,10239.39
+2013,116,Arnot Ogden Medical Center,137,1,Major Respiratory Infections & Inflammations,Minor,M,Medical,8,10298.05,9077.74,3727.46,3477.1
+2013,116,Arnot Ogden Medical Center,137,2,Major Respiratory Infections & Inflammations,Moderate,M,Medical,52,15210.05,14972.5,6135.4,5972.65
+2013,116,Arnot Ogden Medical Center,137,3,Major Respiratory Infections & Inflammations,Major,M,Medical,74,23402.15,22784.76,8935.62,8663.36
+2013,116,Arnot Ogden Medical Center,137,4,Major Respiratory Infections & Inflammations,Extreme,M,Medical,23,41150.42,43889.27,15401.68,15770.83
+2013,116,Arnot Ogden Medical Center,138,1,Bronchiolitis & Rsv Pneumonia,Minor,M,Medical,31,5288.37,4734.69,2496.68,1979.19
+2013,116,Arnot Ogden Medical Center,138,2,Bronchiolitis & Rsv Pneumonia,Moderate,M,Medical,29,7185.37,6980.58,3444.91,3080.16
+2013,116,Arnot Ogden Medical Center,138,3,Bronchiolitis & Rsv Pneumonia,Major,M,Medical,1,12107.15,12107.15,6032.45,6032.45
+2013,116,Arnot Ogden Medical Center,138,4,Bronchiolitis & Rsv Pneumonia,Extreme,M,Medical,1,8359.82,8359.82,2336.38,2336.38
+2013,116,Arnot Ogden Medical Center,139,1,Other Pneumonia,Minor,M,Medical,41,7918.94,6338.71,3106.11,2537.01
+2013,116,Arnot Ogden Medical Center,139,2,Other Pneumonia,Moderate,M,Medical,163,12567.02,11683.4,4846.72,4327.25
+2013,116,Arnot Ogden Medical Center,139,3,Other Pneumonia,Major,M,Medical,135,19876.03,18368.87,7859.76,7401.41
+2013,116,Arnot Ogden Medical Center,139,4,Other Pneumonia,Extreme,M,Medical,12,37206.55,26171.02,13969.97,10178.93
+2013,116,Arnot Ogden Medical Center,140,1,Chronic Obstructive Pulmonary Disease,Minor,M,Medical,36,10198.7,8911.41,3986.61,3871.34
+2013,116,Arnot Ogden Medical Center,140,2,Chronic Obstructive Pulmonary Disease,Moderate,M,Medical,168,12978.24,11579.81,5108.74,4450.2
+2013,116,Arnot Ogden Medical Center,140,3,Chronic Obstructive Pulmonary Disease,Major,M,Medical,182,18352.42,16226.09,7349.04,6526.06
+2013,116,Arnot Ogden Medical Center,140,4,Chronic Obstructive Pulmonary Disease,Extreme,M,Medical,15,34441.51,28247.79,13185.13,9596.26
+2013,116,Arnot Ogden Medical Center,141,1,Asthma,Minor,M,Medical,17,7537.54,6739.03,3279.58,3174.17
+2013,116,Arnot Ogden Medical Center,141,2,Asthma,Moderate,M,Medical,23,9013.65,7426.05,3610.98,3401.44
+2013,116,Arnot Ogden Medical Center,141,3,Asthma,Major,M,Medical,8,12329.98,13499.29,4793.82,5321.63
+2013,116,Arnot Ogden Medical Center,142,2,Interstitial & Alveolar Lung Diseases,Moderate,M,Medical,1,12323.66,12323.66,4568.07,4568.07
+2013,116,Arnot Ogden Medical Center,142,3,Interstitial & Alveolar Lung Diseases,Major,M,Medical,2,23946.3,23946.3,9028.14,9028.14
+2013,116,Arnot Ogden Medical Center,143,1,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Minor,M,Medical,8,15045.14,16674.91,8039.93,7422.01
+2013,116,Arnot Ogden Medical Center,143,2,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Moderate,M,Medical,14,12750.23,12891.3,4308.32,3878.25
+2013,116,Arnot Ogden Medical Center,143,3,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Major,M,Medical,10,19859.71,14201.62,7951.26,3635.93
+2013,116,Arnot Ogden Medical Center,143,4,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Extreme,M,Medical,1,36687.58,36687.58,12106.26,12106.26
+2013,116,Arnot Ogden Medical Center,144,1,"Respiratory Signs, Symptoms & Minor Diagnoses",Minor,M,Medical,16,8078.38,7663.28,2970.19,2871.01
+2013,116,Arnot Ogden Medical Center,144,2,"Respiratory Signs, Symptoms & Minor Diagnoses",Moderate,M,Medical,27,11587.55,10984.87,3942.07,3544.69
+2013,116,Arnot Ogden Medical Center,144,3,"Respiratory Signs, Symptoms & Minor Diagnoses",Major,M,Medical,8,18115.27,18142.32,6626.32,7280.66
+2013,116,Arnot Ogden Medical Center,161,1,Cardiac Defibrillator & Heart Assist Implant,Minor,P,Surgical,10,101539.03,96460.73,33914.57,31091.17
+2013,116,Arnot Ogden Medical Center,161,2,Cardiac Defibrillator & Heart Assist Implant,Moderate,P,Surgical,10,117058.31,126839.1,41365.17,39462.99
+2013,116,Arnot Ogden Medical Center,161,3,Cardiac Defibrillator & Heart Assist Implant,Major,P,Surgical,2,154420.16,154420.16,55260,55260
+2013,116,Arnot Ogden Medical Center,162,2,Cardiac Valve Procedures W Cardiac Catheterization,Moderate,P,Surgical,1,103057.19,103057.19,32462.25,32462.25
+2013,116,Arnot Ogden Medical Center,162,3,Cardiac Valve Procedures W Cardiac Catheterization,Major,P,Surgical,5,115224.78,107361.33,37558.93,35201.17
+2013,116,Arnot Ogden Medical Center,162,4,Cardiac Valve Procedures W Cardiac Catheterization,Extreme,P,Surgical,2,184535.2,184535.2,57409.64,57409.64
+2013,116,Arnot Ogden Medical Center,163,1,Cardiac Valve Procedures W/O Cardiac Catheterization,Minor,P,Surgical,2,83002.94,83002.94,25787.3,25787.3
+2013,116,Arnot Ogden Medical Center,163,2,Cardiac Valve Procedures W/O Cardiac Catheterization,Moderate,P,Surgical,5,89105.22,91480.7,27996.56,29425.71
+2013,116,Arnot Ogden Medical Center,163,3,Cardiac Valve Procedures W/O Cardiac Catheterization,Major,P,Surgical,7,97610.4,98550.39,31647,30790.96
+2013,116,Arnot Ogden Medical Center,163,4,Cardiac Valve Procedures W/O Cardiac Catheterization,Extreme,P,Surgical,2,251243.32,251243.32,74534.93,74534.93
+2013,116,Arnot Ogden Medical Center,165,1,Coronary Bypass W Cardiac Cath Or Percutaneous Cardiac Procedure,Minor,P,Surgical,3,92789.35,83564.53,26177.08,24089.85
+2013,116,Arnot Ogden Medical Center,165,2,Coronary Bypass W Cardiac Cath Or Percutaneous Cardiac Procedure,Moderate,P,Surgical,16,93624,94281.31,26985.5,27023.87
+2013,116,Arnot Ogden Medical Center,165,3,Coronary Bypass W Cardiac Cath Or Percutaneous Cardiac Procedure,Major,P,Surgical,27,118880.34,114915.4,35750.63,35363.45
+2013,116,Arnot Ogden Medical Center,165,4,Coronary Bypass W Cardiac Cath Or Percutaneous Cardiac Procedure,Extreme,P,Surgical,5,131399.55,136878.71,41281.04,44364.82
+2013,116,Arnot Ogden Medical Center,166,1,Coronary Bypass W/O Cardiac Cath Or Percutaneous Cardiac Procedure,Minor,P,Surgical,1,76341.44,76341.44,21237.18,21237.18
+2013,116,Arnot Ogden Medical Center,166,2,Coronary Bypass W/O Cardiac Cath Or Percutaneous Cardiac Procedure,Moderate,P,Surgical,10,75430.1,71202.26,21685.39,19894.65
+2013,116,Arnot Ogden Medical Center,166,3,Coronary Bypass W/O Cardiac Cath Or Percutaneous Cardiac Procedure,Major,P,Surgical,11,98437.25,89572.76,28532.89,24819.49
+2013,116,Arnot Ogden Medical Center,167,3,Other Cardiothoracic Procedures,Major,P,Surgical,1,35704.09,35704.09,12565.05,12565.05
+2013,116,Arnot Ogden Medical Center,169,2,Major Thoracic & Abdominal Vascular Procedures,Moderate,P,Surgical,3,38023.41,22172.54,13649.99,7247.02
+2013,116,Arnot Ogden Medical Center,169,3,Major Thoracic & Abdominal Vascular Procedures,Major,P,Surgical,3,81466.25,82859.08,28395.34,29831.72
+2013,116,Arnot Ogden Medical Center,169,4,Major Thoracic & Abdominal Vascular Procedures,Extreme,P,Surgical,1,178582.93,178582.93,47519.44,47519.44
+2013,116,Arnot Ogden Medical Center,170,2,"Permanent Cardiac Pacemaker Implant W Ami, Heart Failure Or Shock",Moderate,P,Surgical,2,50028.4,50028.4,16526.52,16526.52
+2013,116,Arnot Ogden Medical Center,170,3,"Permanent Cardiac Pacemaker Implant W Ami, Heart Failure Or Shock",Major,P,Surgical,2,60586.38,60586.38,20565.53,20565.53
+2013,116,Arnot Ogden Medical Center,171,1,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Minor,P,Surgical,24,37079.67,36987.69,10953.96,10543.13
+2013,116,Arnot Ogden Medical Center,171,2,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Moderate,P,Surgical,41,39727.98,39228.65,12441.73,12202.6
+2013,116,Arnot Ogden Medical Center,171,3,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Major,P,Surgical,13,50935.87,46654.92,16898.87,15637.16
+2013,116,Arnot Ogden Medical Center,171,4,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Extreme,P,Surgical,2,66540.63,66540.63,20242.44,20242.44
+2013,116,Arnot Ogden Medical Center,173,1,Other Vascular Procedures,Minor,P,Surgical,23,42328.61,46431.03,15486.84,16518.11
+2013,116,Arnot Ogden Medical Center,173,2,Other Vascular Procedures,Moderate,P,Surgical,27,44118.27,39538.4,16200.27,13356.48
+2013,116,Arnot Ogden Medical Center,173,3,Other Vascular Procedures,Major,P,Surgical,11,56217.31,61109.64,18201.89,19376.9
+2013,116,Arnot Ogden Medical Center,173,4,Other Vascular Procedures,Extreme,P,Surgical,4,103780.33,102545.08,30481.85,31130.2
+2013,116,Arnot Ogden Medical Center,174,1,Percutaneous Cardiovascular Procedures W Ami,Minor,P,Surgical,83,44633.24,42108.04,14289.24,13428.25
+2013,116,Arnot Ogden Medical Center,174,2,Percutaneous Cardiovascular Procedures W Ami,Moderate,P,Surgical,62,47217.25,45257.29,15253.37,14227.44
+2013,116,Arnot Ogden Medical Center,174,3,Percutaneous Cardiovascular Procedures W Ami,Major,P,Surgical,16,60810.81,54892.09,20221.2,18792.63
+2013,116,Arnot Ogden Medical Center,174,4,Percutaneous Cardiovascular Procedures W Ami,Extreme,P,Surgical,9,74417.26,57890.05,23653.79,21797.96
+2013,116,Arnot Ogden Medical Center,175,1,Percutaneous Cardiovascular Procedures W/O Ami,Minor,P,Surgical,77,41387.45,39773.91,13173.24,12834.65
+2013,116,Arnot Ogden Medical Center,175,2,Percutaneous Cardiovascular Procedures W/O Ami,Moderate,P,Surgical,54,47530,43548.63,15212.58,14151.51
+2013,116,Arnot Ogden Medical Center,175,3,Percutaneous Cardiovascular Procedures W/O Ami,Major,P,Surgical,12,55699.55,56277.27,19172.84,19652.91
+2013,116,Arnot Ogden Medical Center,175,4,Percutaneous Cardiovascular Procedures W/O Ami,Extreme,P,Surgical,3,93024.1,81726.07,32783.2,27959.82
+2013,116,Arnot Ogden Medical Center,176,1,Cardiac Pacemaker & Defibrillator Device Replacement,Minor,P,Surgical,1,24561.86,24561.86,7492.14,7492.14
+2013,116,Arnot Ogden Medical Center,176,2,Cardiac Pacemaker & Defibrillator Device Replacement,Moderate,P,Surgical,1,93309.9,93309.9,21973.03,21973.03
+2013,116,Arnot Ogden Medical Center,176,3,Cardiac Pacemaker & Defibrillator Device Replacement,Major,P,Surgical,2,93005.07,93005.07,27088.63,27088.63
+2013,116,Arnot Ogden Medical Center,177,1,Cardiac Pacemaker & Defibrillator Revision Except Device Replacement,Minor,P,Surgical,5,27169.44,24758.58,10928.91,10236.78
+2013,116,Arnot Ogden Medical Center,177,2,Cardiac Pacemaker & Defibrillator Revision Except Device Replacement,Moderate,P,Surgical,11,58109.41,43368.01,20583.58,14654.41
+2013,116,Arnot Ogden Medical Center,177,3,Cardiac Pacemaker & Defibrillator Revision Except Device Replacement,Major,P,Surgical,2,55654.68,55654.68,22033.42,22033.42
+2013,116,Arnot Ogden Medical Center,177,4,Cardiac Pacemaker & Defibrillator Revision Except Device Replacement,Extreme,P,Surgical,1,87911.51,87911.51,25413.93,25413.93
+2013,116,Arnot Ogden Medical Center,180,2,Other Circulatory System Procedures,Moderate,P,Surgical,2,32922.17,32922.17,10833.38,10833.38
+2013,116,Arnot Ogden Medical Center,180,3,Other Circulatory System Procedures,Major,P,Surgical,3,46499.72,48598.37,15941.33,16864.27
+2013,116,Arnot Ogden Medical Center,180,4,Other Circulatory System Procedures,Extreme,P,Surgical,1,98296.98,98296.98,31009.75,31009.75
+2013,116,Arnot Ogden Medical Center,190,1,Acute Myocardial Infarction,Minor,M,Medical,15,13301.22,13676.44,4338.32,3907.85
+2013,116,Arnot Ogden Medical Center,190,2,Acute Myocardial Infarction,Moderate,M,Medical,49,19060.24,16882.05,6706.22,5912.15
+2013,116,Arnot Ogden Medical Center,190,3,Acute Myocardial Infarction,Major,M,Medical,59,27879.77,23619.81,10888.61,9644.67
+2013,116,Arnot Ogden Medical Center,190,4,Acute Myocardial Infarction,Extreme,M,Medical,24,46086.93,48818.11,15921.9,16979.82
+2013,116,Arnot Ogden Medical Center,191,1,Cardiac Catheterization W Circ Disord Exc Ischemic Heart Disease,Minor,M,Medical,13,16475.19,16182.7,4886.97,4410.81
+2013,116,Arnot Ogden Medical Center,191,2,Cardiac Catheterization W Circ Disord Exc Ischemic Heart Disease,Moderate,M,Medical,16,24586.62,20161.65,7515.47,6154.55
+2013,116,Arnot Ogden Medical Center,191,3,Cardiac Catheterization W Circ Disord Exc Ischemic Heart Disease,Major,M,Medical,15,26760.33,25905.59,9929.42,8966.77
+2013,116,Arnot Ogden Medical Center,191,4,Cardiac Catheterization W Circ Disord Exc Ischemic Heart Disease,Extreme,M,Medical,2,49089.35,49089.35,17078.35,17078.35
+2013,116,Arnot Ogden Medical Center,192,1,Cardiac Catheterization For Ischemic Heart Disease,Minor,M,Medical,49,16656.68,15921.19,4843.23,4661.29
+2013,116,Arnot Ogden Medical Center,192,2,Cardiac Catheterization For Ischemic Heart Disease,Moderate,M,Medical,63,19362.69,17693.18,5691.91,5102.02
+2013,116,Arnot Ogden Medical Center,192,3,Cardiac Catheterization For Ischemic Heart Disease,Major,M,Medical,7,23746.48,21095.38,7501.16,6868.97
+2013,116,Arnot Ogden Medical Center,192,4,Cardiac Catheterization For Ischemic Heart Disease,Extreme,M,Medical,2,22353.74,22353.74,7789.93,7789.93
+2013,116,Arnot Ogden Medical Center,193,3,Acute & Subacute Endocarditis,Major,M,Medical,1,77273.18,77273.18,29900.34,29900.34
+2013,116,Arnot Ogden Medical Center,193,4,Acute & Subacute Endocarditis,Extreme,M,Medical,1,26997.68,26997.68,9084.55,9084.55
+2013,116,Arnot Ogden Medical Center,194,1,Heart Failure,Minor,M,Medical,11,12105.48,10898.86,4150,3636.74
+2013,116,Arnot Ogden Medical Center,194,2,Heart Failure,Moderate,M,Medical,138,14465.16,13239.87,5531.41,4838.19
+2013,116,Arnot Ogden Medical Center,194,3,Heart Failure,Major,M,Medical,99,21831.2,19311.01,8616.45,7458.54
+2013,116,Arnot Ogden Medical Center,194,4,Heart Failure,Extreme,M,Medical,10,54365.85,50935.32,20377.7,19746.82
+2013,116,Arnot Ogden Medical Center,196,3,Cardiac Arrest,Major,M,Medical,1,2270.13,2270.13,1122.71,1122.71
+2013,116,Arnot Ogden Medical Center,196,4,Cardiac Arrest,Extreme,M,Medical,5,26126.28,20625.21,7082.12,4784.98
+2013,116,Arnot Ogden Medical Center,197,1,Peripheral & Other Vascular Disorders,Minor,M,Medical,6,10719.38,9036.45,4410.29,3854.74
+2013,116,Arnot Ogden Medical Center,197,2,Peripheral & Other Vascular Disorders,Moderate,M,Medical,22,18625.16,13967.39,6701.34,5057.12
+2013,116,Arnot Ogden Medical Center,197,3,Peripheral & Other Vascular Disorders,Major,M,Medical,24,22702.33,18030.26,8263.75,7539.35
+2013,116,Arnot Ogden Medical Center,197,4,Peripheral & Other Vascular Disorders,Extreme,M,Medical,2,26437.23,26437.23,10648.97,10648.97
+2013,116,Arnot Ogden Medical Center,198,1,Angina Pectoris & Coronary Atherosclerosis,Minor,M,Medical,13,10543.91,10982.59,3181.74,2748.58
+2013,116,Arnot Ogden Medical Center,198,2,Angina Pectoris & Coronary Atherosclerosis,Moderate,M,Medical,43,11670.29,11141.19,3636.61,3460.81
+2013,116,Arnot Ogden Medical Center,198,3,Angina Pectoris & Coronary Atherosclerosis,Major,M,Medical,10,13945.75,13423.67,4622.69,4355.96
+2013,116,Arnot Ogden Medical Center,198,4,Angina Pectoris & Coronary Atherosclerosis,Extreme,M,Medical,1,25202.69,25202.69,10063.5,10063.5
+2013,116,Arnot Ogden Medical Center,199,1,Hypertension,Minor,M,Medical,15,9210.93,9014.11,2871.5,2778.09
+2013,116,Arnot Ogden Medical Center,199,2,Hypertension,Moderate,M,Medical,18,14003.09,11826.4,4665.64,3853.42
+2013,116,Arnot Ogden Medical Center,199,3,Hypertension,Major,M,Medical,6,15944.53,13898.58,5317.03,4572.92
+2013,116,Arnot Ogden Medical Center,199,4,Hypertension,Extreme,M,Medical,1,19602.3,19602.3,9146.7,9146.7
+2013,116,Arnot Ogden Medical Center,200,2,Cardiac Structural & Valvular Disorders,Moderate,M,Medical,1,5709.05,5709.05,2982.65,2982.65
+2013,116,Arnot Ogden Medical Center,200,3,Cardiac Structural & Valvular Disorders,Major,M,Medical,5,14003.58,14531.44,5257.56,3694.44
+2013,116,Arnot Ogden Medical Center,201,1,Cardiac Arrhythmia & Conduction Disorders,Minor,M,Medical,42,8998.43,7964.33,3214.01,2813.5
+2013,116,Arnot Ogden Medical Center,201,2,Cardiac Arrhythmia & Conduction Disorders,Moderate,M,Medical,144,11571.55,10102.71,4349.52,3598.88
+2013,116,Arnot Ogden Medical Center,201,3,Cardiac Arrhythmia & Conduction Disorders,Major,M,Medical,79,18630.45,16755.55,7245.04,6802.45
+2013,116,Arnot Ogden Medical Center,201,4,Cardiac Arrhythmia & Conduction Disorders,Extreme,M,Medical,9,27848.27,18105.01,10244.17,7579.53
+2013,116,Arnot Ogden Medical Center,203,1,Chest Pain,Minor,M,Medical,13,10910.45,8939.85,3122.41,2503.48
+2013,116,Arnot Ogden Medical Center,204,1,Syncope & Collapse,Minor,M,Medical,25,9690.35,9077.35,3191.21,2630.77
+2013,116,Arnot Ogden Medical Center,204,2,Syncope & Collapse,Moderate,M,Medical,37,14624.27,13536.94,4821.47,4095.71
+2013,116,Arnot Ogden Medical Center,204,3,Syncope & Collapse,Major,M,Medical,21,15649.75,12995.45,5732.86,4160.86
+2013,116,Arnot Ogden Medical Center,206,2,"Malfunction,Reaction,Complication Of Cardiac/Vasc Device Or Procedure",Moderate,M,Medical,5,12454.72,9539.09,3476.57,2591.94
+2013,116,Arnot Ogden Medical Center,206,3,"Malfunction,Reaction,Complication Of Cardiac/Vasc Device Or Procedure",Major,M,Medical,9,25528.92,19729.56,9051.72,7275.03
+2013,116,Arnot Ogden Medical Center,206,4,"Malfunction,Reaction,Complication Of Cardiac/Vasc Device Or Procedure",Extreme,M,Medical,3,23438.96,20583.2,9659.27,8689.9
+2013,116,Arnot Ogden Medical Center,207,1,Other Circulatory System Diagnoses,Minor,M,Medical,17,13115.87,11128.63,4598.64,3965.97
+2013,116,Arnot Ogden Medical Center,207,2,Other Circulatory System Diagnoses,Moderate,M,Medical,14,10850.88,10336.28,4130.48,3703.73
+2013,116,Arnot Ogden Medical Center,207,3,Other Circulatory System Diagnoses,Major,M,Medical,14,19210.23,15875.66,7199.12,5745.25
+2013,116,Arnot Ogden Medical Center,207,4,Other Circulatory System Diagnoses,Extreme,M,Medical,2,21462.06,21462.06,7890.69,7890.69
+2013,116,Arnot Ogden Medical Center,220,1,"Major Stomach, Esophageal & Duodenal Procedures",Minor,P,Surgical,1,42402.39,42402.39,13173.71,13173.71
+2013,116,Arnot Ogden Medical Center,220,2,"Major Stomach, Esophageal & Duodenal Procedures",Moderate,P,Surgical,3,52252.73,34669.43,17772.22,10753.02
+2013,116,Arnot Ogden Medical Center,220,3,"Major Stomach, Esophageal & Duodenal Procedures",Major,P,Surgical,5,63237.89,75173.86,21755.96,22446.73
+2013,116,Arnot Ogden Medical Center,220,4,"Major Stomach, Esophageal & Duodenal Procedures",Extreme,P,Surgical,4,92693.56,96338.88,29095.24,30485.96
+2013,116,Arnot Ogden Medical Center,221,1,Major Small & Large Bowel Procedures,Minor,P,Surgical,14,31147.39,25732.3,9947.82,8136.9
+2013,116,Arnot Ogden Medical Center,221,2,Major Small & Large Bowel Procedures,Moderate,P,Surgical,26,39902.9,35065.89,12816.82,11033.18
+2013,116,Arnot Ogden Medical Center,221,3,Major Small & Large Bowel Procedures,Major,P,Surgical,36,62112.32,54531.09,21100.79,18758.23
+2013,116,Arnot Ogden Medical Center,221,4,Major Small & Large Bowel Procedures,Extreme,P,Surgical,19,96305.83,90984.77,31183.4,27636.34
+2013,116,Arnot Ogden Medical Center,222,1,"Other Stomach, Esophageal & Duodenal Procedures",Minor,P,Surgical,4,11777.22,11680.6,4701.01,4645.17
+2013,116,Arnot Ogden Medical Center,222,2,"Other Stomach, Esophageal & Duodenal Procedures",Moderate,P,Surgical,2,19844.04,19844.04,5025.48,5025.48
+2013,116,Arnot Ogden Medical Center,222,4,"Other Stomach, Esophageal & Duodenal Procedures",Extreme,P,Surgical,1,63310.08,63310.08,20436.55,20436.55
+2013,116,Arnot Ogden Medical Center,223,1,Other Small & Large Bowel Procedures,Minor,P,Surgical,1,14374.85,14374.85,3807.12,3807.12
+2013,116,Arnot Ogden Medical Center,223,2,Other Small & Large Bowel Procedures,Moderate,P,Surgical,6,34148.01,31002.34,11603.29,10950.93
+2013,116,Arnot Ogden Medical Center,223,3,Other Small & Large Bowel Procedures,Major,P,Surgical,2,29480.18,29480.18,9602.83,9602.83
+2013,116,Arnot Ogden Medical Center,224,1,Peritoneal Adhesiolysis,Minor,P,Surgical,9,16607.64,13448.22,5615.15,4597.18
+2013,116,Arnot Ogden Medical Center,224,2,Peritoneal Adhesiolysis,Moderate,P,Surgical,6,29139.65,26672.69,10840.21,9602.38
+2013,116,Arnot Ogden Medical Center,224,3,Peritoneal Adhesiolysis,Major,P,Surgical,3,42309.25,38837.39,14336.11,13282.8
+2013,116,Arnot Ogden Medical Center,224,4,Peritoneal Adhesiolysis,Extreme,P,Surgical,2,64656.93,64656.93,22190.8,22190.8
+2013,116,Arnot Ogden Medical Center,225,1,Appendectomy,Minor,P,Surgical,37,13946.58,13688.54,3796.76,3423.93
+2013,116,Arnot Ogden Medical Center,225,2,Appendectomy,Moderate,P,Surgical,35,20644.48,18201.47,6656.95,5832.4
+2013,116,Arnot Ogden Medical Center,225,3,Appendectomy,Major,P,Surgical,6,48778.22,47209.65,15698.19,15225.31
+2013,116,Arnot Ogden Medical Center,225,4,Appendectomy,Extreme,P,Surgical,1,48592.01,48592.01,17473.33,17473.33
+2013,116,Arnot Ogden Medical Center,226,1,Anal Procedures,Minor,P,Surgical,4,12370.16,11979.09,4122.28,4003.26
+2013,116,Arnot Ogden Medical Center,226,2,Anal Procedures,Moderate,P,Surgical,1,17254.94,17254.94,9625.98,9625.98
+2013,116,Arnot Ogden Medical Center,227,1,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Minor,P,Surgical,10,16925.96,14442.43,5466.12,4587.02
+2013,116,Arnot Ogden Medical Center,227,2,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Moderate,P,Surgical,12,20968.82,21865.69,7660.73,7359.21
+2013,116,Arnot Ogden Medical Center,227,3,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Major,P,Surgical,1,52411.87,52411.87,18712.31,18712.31
+2013,116,Arnot Ogden Medical Center,227,4,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Extreme,P,Surgical,2,122767.07,122767.07,39591.2,39591.2
+2013,116,Arnot Ogden Medical Center,228,1,"Inguinal, Femoral & Umbilical Hernia Procedures",Minor,P,Surgical,8,15605.09,15783.4,5227.73,5017.7
+2013,116,Arnot Ogden Medical Center,228,2,"Inguinal, Femoral & Umbilical Hernia Procedures",Moderate,P,Surgical,4,16194.32,16285.5,5130.23,4732.24
+2013,116,Arnot Ogden Medical Center,228,3,"Inguinal, Femoral & Umbilical Hernia Procedures",Major,P,Surgical,2,59784.17,59784.17,24850.59,24850.59
+2013,116,Arnot Ogden Medical Center,228,4,"Inguinal, Femoral & Umbilical Hernia Procedures",Extreme,P,Surgical,1,51552.33,51552.33,16881.95,16881.95
+2013,116,Arnot Ogden Medical Center,229,2,Other Digestive System & Abdominal Procedures,Moderate,P,Surgical,2,29229.96,29229.96,8927.95,8927.95
+2013,116,Arnot Ogden Medical Center,229,3,Other Digestive System & Abdominal Procedures,Major,P,Surgical,2,29784.47,29784.47,8495.02,8495.02
+2013,116,Arnot Ogden Medical Center,240,1,Digestive Malignancy,Minor,M,Medical,1,19909.13,19909.13,9488.91,9488.91
+2013,116,Arnot Ogden Medical Center,240,2,Digestive Malignancy,Moderate,M,Medical,6,11666.93,11740.22,4635.34,4528.99
+2013,116,Arnot Ogden Medical Center,240,3,Digestive Malignancy,Major,M,Medical,15,20795.11,16458.6,8073.79,6459.09
+2013,116,Arnot Ogden Medical Center,240,4,Digestive Malignancy,Extreme,M,Medical,3,24682.81,26317.09,8513.54,7864.81
+2013,116,Arnot Ogden Medical Center,241,1,Peptic Ulcer & Gastritis,Minor,M,Medical,25,11119.8,9603.25,3649.39,3135.52
+2013,116,Arnot Ogden Medical Center,241,2,Peptic Ulcer & Gastritis,Moderate,M,Medical,29,14122.28,13058.96,4738.85,4024.72
+2013,116,Arnot Ogden Medical Center,241,3,Peptic Ulcer & Gastritis,Major,M,Medical,16,24877.19,19667.65,8749,6706.45
+2013,116,Arnot Ogden Medical Center,242,3,Major Esophageal Disorders,Major,M,Medical,2,17634.86,17634.86,6216.26,6216.26
+2013,116,Arnot Ogden Medical Center,242,4,Major Esophageal Disorders,Extreme,M,Medical,1,11091.21,11091.21,3721.1,3721.1
+2013,116,Arnot Ogden Medical Center,243,1,Other Esophageal Disorders,Minor,M,Medical,6,8377.03,6143.01,3188.61,2108.23
+2013,116,Arnot Ogden Medical Center,243,2,Other Esophageal Disorders,Moderate,M,Medical,11,11727.72,10691.73,3738.13,3153.28
+2013,116,Arnot Ogden Medical Center,243,3,Other Esophageal Disorders,Major,M,Medical,2,20766.05,20766.05,7468.82,7468.82
+2013,116,Arnot Ogden Medical Center,244,1,Diverticulitis & Diverticulosis,Minor,M,Medical,35,10625.99,9146.34,3371.49,3049.81
+2013,116,Arnot Ogden Medical Center,244,2,Diverticulitis & Diverticulosis,Moderate,M,Medical,59,13369.2,12296.67,4666.77,4338.15
+2013,116,Arnot Ogden Medical Center,244,3,Diverticulitis & Diverticulosis,Major,M,Medical,13,19025.83,15578.8,6471.16,5512.72
+2013,116,Arnot Ogden Medical Center,244,4,Diverticulitis & Diverticulosis,Extreme,M,Medical,2,37912.04,37912.04,12583.84,12583.84
+2013,116,Arnot Ogden Medical Center,245,1,Inflammatory Bowel Disease,Minor,M,Medical,8,10290.48,8936.38,3408.62,2565.6
+2013,116,Arnot Ogden Medical Center,245,2,Inflammatory Bowel Disease,Moderate,M,Medical,16,16575.38,13738.53,5869.08,4683.38
+2013,116,Arnot Ogden Medical Center,245,3,Inflammatory Bowel Disease,Major,M,Medical,6,23889.7,24965.91,9006.2,9011.24
+2013,116,Arnot Ogden Medical Center,246,1,Gastrointestinal Vascular Insufficiency,Minor,M,Medical,1,14580.72,14580.72,5411.23,5411.23
+2013,116,Arnot Ogden Medical Center,246,2,Gastrointestinal Vascular Insufficiency,Moderate,M,Medical,3,17011.11,14996.21,5823.96,6275.33
+2013,116,Arnot Ogden Medical Center,246,3,Gastrointestinal Vascular Insufficiency,Major,M,Medical,4,34045.43,32916.86,11942.39,11546.25
+2013,116,Arnot Ogden Medical Center,247,1,Intestinal Obstruction,Minor,M,Medical,40,10475.22,9940.56,3141.38,2710.1
+2013,116,Arnot Ogden Medical Center,247,2,Intestinal Obstruction,Moderate,M,Medical,48,12379.77,10896.84,4145.84,3622.5
+2013,116,Arnot Ogden Medical Center,247,3,Intestinal Obstruction,Major,M,Medical,17,16859.84,14264.91,6291.6,5517.89
+2013,116,Arnot Ogden Medical Center,248,1,Major Gastrointestinal & Peritoneal Infections,Minor,M,Medical,8,10985.99,10713.37,3610.29,3156.5
+2013,116,Arnot Ogden Medical Center,248,2,Major Gastrointestinal & Peritoneal Infections,Moderate,M,Medical,28,14449.71,13593.24,5136.39,4854.04
+2013,116,Arnot Ogden Medical Center,248,3,Major Gastrointestinal & Peritoneal Infections,Major,M,Medical,16,22326.98,17148.44,8073.9,7379.51
+2013,116,Arnot Ogden Medical Center,248,4,Major Gastrointestinal & Peritoneal Infections,Extreme,M,Medical,5,73001.06,47368.11,26890.98,21538.93
+2013,116,Arnot Ogden Medical Center,249,1,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Minor,M,Medical,32,7796.15,7617.74,2537.73,2081.57
+2013,116,Arnot Ogden Medical Center,249,2,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Moderate,M,Medical,69,11682.08,11182.91,3692.65,3465.75
+2013,116,Arnot Ogden Medical Center,249,3,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Major,M,Medical,20,14620.59,14214.8,4991.67,4340.23
+2013,116,Arnot Ogden Medical Center,249,4,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Extreme,M,Medical,1,18080.06,18080.06,5234.76,5234.76
+2013,116,Arnot Ogden Medical Center,251,1,Abdominal Pain,Minor,M,Medical,6,9171.51,10280.51,2499.85,2485.34
+2013,116,Arnot Ogden Medical Center,251,2,Abdominal Pain,Moderate,M,Medical,17,12091.71,11110.79,3629,2789.67
+2013,116,Arnot Ogden Medical Center,251,3,Abdominal Pain,Major,M,Medical,6,13821.23,12465.84,4476.42,3615.85
+2013,116,Arnot Ogden Medical Center,252,1,"Malfunction, Reaction & Complication Of Gi Device Or Procedure",Minor,M,Medical,4,9028.09,8868.07,3149.59,3344.03
+2013,116,Arnot Ogden Medical Center,252,2,"Malfunction, Reaction & Complication Of Gi Device Or Procedure",Moderate,M,Medical,9,18503.73,15842.23,6105.81,5591.04
+2013,116,Arnot Ogden Medical Center,252,3,"Malfunction, Reaction & Complication Of Gi Device Or Procedure",Major,M,Medical,7,25351.41,20268.71,8910.31,7154.04
+2013,116,Arnot Ogden Medical Center,253,1,Other & Unspecified Gastrointestinal Hemorrhage,Minor,M,Medical,10,12105.87,10219.56,3926.52,3356.84
+2013,116,Arnot Ogden Medical Center,253,2,Other & Unspecified Gastrointestinal Hemorrhage,Moderate,M,Medical,45,15710.24,14385.26,5691.38,4638.49
+2013,116,Arnot Ogden Medical Center,253,3,Other & Unspecified Gastrointestinal Hemorrhage,Major,M,Medical,19,21037.18,20274.29,8196.76,7057.51
+2013,116,Arnot Ogden Medical Center,253,4,Other & Unspecified Gastrointestinal Hemorrhage,Extreme,M,Medical,1,91280.07,91280.07,27377.46,27377.46
+2013,116,Arnot Ogden Medical Center,254,1,Other Digestive System Diagnoses,Minor,M,Medical,32,11169.72,10558.86,3660.66,3512.9
+2013,116,Arnot Ogden Medical Center,254,2,Other Digestive System Diagnoses,Moderate,M,Medical,35,12419.14,11538.93,4442.52,3733.07
+2013,116,Arnot Ogden Medical Center,254,3,Other Digestive System Diagnoses,Major,M,Medical,16,24867.23,18850.03,9028.74,7031.49
+2013,116,Arnot Ogden Medical Center,254,4,Other Digestive System Diagnoses,Extreme,M,Medical,1,13388.27,13388.27,5029.7,5029.7
+2013,116,Arnot Ogden Medical Center,260,2,"Major Pancreas, Liver & Shunt Procedures",Moderate,P,Surgical,2,13851.58,13851.58,4020.32,4020.32
+2013,116,Arnot Ogden Medical Center,260,3,"Major Pancreas, Liver & Shunt Procedures",Major,P,Surgical,1,29888.39,29888.39,11263.56,11263.56
+2013,116,Arnot Ogden Medical Center,262,1,Cholecystectomy Except Laparoscopic,Minor,P,Surgical,2,21651.77,21651.77,6116.21,6116.21
+2013,116,Arnot Ogden Medical Center,262,2,Cholecystectomy Except Laparoscopic,Moderate,P,Surgical,8,33988.43,34516.49,11148.19,11952.95
+2013,116,Arnot Ogden Medical Center,262,3,Cholecystectomy Except Laparoscopic,Major,P,Surgical,3,51816.99,56696.1,18752.07,21073.78
+2013,116,Arnot Ogden Medical Center,262,4,Cholecystectomy Except Laparoscopic,Extreme,P,Surgical,1,108928.35,108928.35,37776.09,37776.09
+2013,116,Arnot Ogden Medical Center,263,1,Laparoscopic Cholecystectomy,Minor,P,Surgical,36,19715.93,19067.54,6008.11,5058.38
+2013,116,Arnot Ogden Medical Center,263,2,Laparoscopic Cholecystectomy,Moderate,P,Surgical,43,27261.79,24792.52,8474.52,8327.43
+2013,116,Arnot Ogden Medical Center,263,3,Laparoscopic Cholecystectomy,Major,P,Surgical,13,37838.04,35809.38,12499.86,12548.95
+2013,116,Arnot Ogden Medical Center,263,4,Laparoscopic Cholecystectomy,Extreme,P,Surgical,2,79374.21,79374.21,27367.68,27367.68
+2013,116,Arnot Ogden Medical Center,264,4,"Other Hepatobiliary, Pancreas & Abdominal Procedures",Extreme,P,Surgical,1,43459.99,43459.99,16647.19,16647.19
+2013,116,Arnot Ogden Medical Center,279,2,Hepatic Coma & Other Major Acute Liver Disorders,Moderate,M,Medical,6,13198.83,11157.31,4754.71,4163.54
+2013,116,Arnot Ogden Medical Center,279,3,Hepatic Coma & Other Major Acute Liver Disorders,Major,M,Medical,30,15877.24,11620.04,5767.67,4058.69
+2013,116,Arnot Ogden Medical Center,279,4,Hepatic Coma & Other Major Acute Liver Disorders,Extreme,M,Medical,6,11929.84,10252.42,4997.94,2997.86
+2013,116,Arnot Ogden Medical Center,280,2,Alcoholic Liver Disease,Moderate,M,Medical,5,15140.68,18098.69,5109.9,4984.22
+2013,116,Arnot Ogden Medical Center,280,3,Alcoholic Liver Disease,Major,M,Medical,6,19514.93,21720.37,8663.4,9309.02
+2013,116,Arnot Ogden Medical Center,280,4,Alcoholic Liver Disease,Extreme,M,Medical,3,21109.26,19425.75,7822.29,7201.31
+2013,116,Arnot Ogden Medical Center,281,1,Malignancy Of Hepatobiliary System & Pancreas,Minor,M,Medical,1,17878.98,17878.98,3661.28,3661.28
+2013,116,Arnot Ogden Medical Center,281,2,Malignancy Of Hepatobiliary System & Pancreas,Moderate,M,Medical,3,3667.92,1945.8,1692.46,848.73
+2013,116,Arnot Ogden Medical Center,281,3,Malignancy Of Hepatobiliary System & Pancreas,Major,M,Medical,12,26695.95,27237.37,9311.11,9077.52
+2013,116,Arnot Ogden Medical Center,282,1,Disorders Of Pancreas Except Malignancy,Minor,M,Medical,22,11751.09,11186.41,3576.61,3501.38
+2013,116,Arnot Ogden Medical Center,282,2,Disorders Of Pancreas Except Malignancy,Moderate,M,Medical,44,13134.58,11178.23,4309.25,3877.68
+2013,116,Arnot Ogden Medical Center,282,3,Disorders Of Pancreas Except Malignancy,Major,M,Medical,16,23494.44,14438.81,7947.97,4532.61
+2013,116,Arnot Ogden Medical Center,282,4,Disorders Of Pancreas Except Malignancy,Extreme,M,Medical,2,78379.49,78379.49,26526.35,26526.35
+2013,116,Arnot Ogden Medical Center,283,2,Other Disorders Of The Liver,Moderate,M,Medical,6,26753.58,24828.98,9754.15,7771.98
+2013,116,Arnot Ogden Medical Center,283,3,Other Disorders Of The Liver,Major,M,Medical,8,14432.34,12895.08,5445.1,4993.45
+2013,116,Arnot Ogden Medical Center,283,4,Other Disorders Of The Liver,Extreme,M,Medical,2,22462.18,22462.18,6414.41,6414.41
+2013,116,Arnot Ogden Medical Center,284,1,Disorders Of Gallbladder & Biliary Tract,Minor,M,Medical,4,10341.59,11020.44,3252.67,3640.17
+2013,116,Arnot Ogden Medical Center,284,2,Disorders Of Gallbladder & Biliary Tract,Moderate,M,Medical,27,15352.21,13623.51,4674.48,3670.15
+2013,116,Arnot Ogden Medical Center,284,3,Disorders Of Gallbladder & Biliary Tract,Major,M,Medical,18,24180.54,21322.79,8538.16,7354.57
+2013,116,Arnot Ogden Medical Center,284,4,Disorders Of Gallbladder & Biliary Tract,Extreme,M,Medical,2,41721.49,41721.49,16184.86,16184.86
+2013,116,Arnot Ogden Medical Center,301,1,Hip Joint Replacement,Minor,P,Surgical,94,24661.97,24083.62,9992.57,9852.3
+2013,116,Arnot Ogden Medical Center,301,2,Hip Joint Replacement,Moderate,P,Surgical,91,26617.94,25296.32,10409.09,10108.99
+2013,116,Arnot Ogden Medical Center,301,3,Hip Joint Replacement,Major,P,Surgical,12,33296.59,28222.98,12379.05,10830.02
+2013,116,Arnot Ogden Medical Center,302,1,Knee Joint Replacement,Minor,P,Surgical,201,19999.92,18974.43,8748.6,8131.9
+2013,116,Arnot Ogden Medical Center,302,2,Knee Joint Replacement,Moderate,P,Surgical,141,21830.62,20452.03,9576.9,8949.38
+2013,116,Arnot Ogden Medical Center,302,3,Knee Joint Replacement,Major,P,Surgical,6,29087.36,23730.64,12093.82,10453.54
+2013,116,Arnot Ogden Medical Center,302,4,Knee Joint Replacement,Extreme,P,Surgical,1,71566.05,71566.05,26319.77,26319.77
+2013,116,Arnot Ogden Medical Center,304,1,Dorsal & Lumbar Fusion Proc Except For Curvature Of Back,Minor,P,Surgical,7,61441.29,54739.89,21936.09,19951.92
+2013,116,Arnot Ogden Medical Center,304,2,Dorsal & Lumbar Fusion Proc Except For Curvature Of Back,Moderate,P,Surgical,16,70113.21,67557.98,25426.52,24018.31
+2013,116,Arnot Ogden Medical Center,304,3,Dorsal & Lumbar Fusion Proc Except For Curvature Of Back,Major,P,Surgical,1,100823.57,100823.57,33350.09,33350.09
+2013,116,Arnot Ogden Medical Center,305,2,Amputation Of Lower Limb Except Toes,Moderate,P,Surgical,15,18485.31,14101.74,7369.9,6363.7
+2013,116,Arnot Ogden Medical Center,305,3,Amputation Of Lower Limb Except Toes,Major,P,Surgical,13,38570.76,38677.61,15454.9,14688.13
+2013,116,Arnot Ogden Medical Center,305,4,Amputation Of Lower Limb Except Toes,Extreme,P,Surgical,3,75630.8,76043.55,30989.18,30830.62
+2013,116,Arnot Ogden Medical Center,308,1,Hip & Femur Procedures For Trauma Except Joint Replacement,Minor,P,Surgical,22,17775.65,18204.78,6876.43,6935.96
+2013,116,Arnot Ogden Medical Center,308,2,Hip & Femur Procedures For Trauma Except Joint Replacement,Moderate,P,Surgical,43,22284.98,20517.86,8752.27,8076.47
+2013,116,Arnot Ogden Medical Center,308,3,Hip & Femur Procedures For Trauma Except Joint Replacement,Major,P,Surgical,21,34494.85,31964.99,13139.43,12925.18
+2013,116,Arnot Ogden Medical Center,308,4,Hip & Femur Procedures For Trauma Except Joint Replacement,Extreme,P,Surgical,3,39539.86,30736.59,13929.99,10606.37
+2013,116,Arnot Ogden Medical Center,309,2,Hip & Femur Procedures For Non-Trauma Except Joint Replacement,Moderate,P,Surgical,5,23198.55,19682.73,8947.9,8262.06
+2013,116,Arnot Ogden Medical Center,309,3,Hip & Femur Procedures For Non-Trauma Except Joint Replacement,Major,P,Surgical,3,24100.57,24565.46,9499.95,9016.24
+2013,116,Arnot Ogden Medical Center,310,1,Intervertebral Disc Excision & Decompression,Minor,P,Surgical,19,33236,27810.1,10187.62,8051.95
+2013,116,Arnot Ogden Medical Center,310,2,Intervertebral Disc Excision & Decompression,Moderate,P,Surgical,30,33675.43,30911.18,11787.12,11225.18
+2013,116,Arnot Ogden Medical Center,310,3,Intervertebral Disc Excision & Decompression,Major,P,Surgical,27,44133.73,36283.38,16276.75,15584.15
+2013,116,Arnot Ogden Medical Center,310,4,Intervertebral Disc Excision & Decompression,Extreme,P,Surgical,1,62039.63,62039.63,24476.06,24476.06
+2013,116,Arnot Ogden Medical Center,312,3,"Skin Graft, Except Hand, For Musculoskeletal & Connective Tissue Diagnoses",Major,P,Surgical,1,49209.37,49209.37,16904.55,16904.55
+2013,116,Arnot Ogden Medical Center,313,1,Knee & Lower Leg Procedures Except Foot,Minor,P,Surgical,38,16385.89,16404.99,6238.1,6263.81
+2013,116,Arnot Ogden Medical Center,313,2,Knee & Lower Leg Procedures Except Foot,Moderate,P,Surgical,27,22613.1,23680.42,8072.18,8725.52
+2013,116,Arnot Ogden Medical Center,313,3,Knee & Lower Leg Procedures Except Foot,Major,P,Surgical,4,28257.59,29988.46,10599.49,11420.94
+2013,116,Arnot Ogden Medical Center,314,1,Foot & Toe Procedures,Minor,P,Surgical,10,15052.1,15254.87,5373.52,5688.47
+2013,116,Arnot Ogden Medical Center,314,2,Foot & Toe Procedures,Moderate,P,Surgical,19,19726.37,16661.35,7608.09,5780.06
+2013,116,Arnot Ogden Medical Center,314,3,Foot & Toe Procedures,Major,P,Surgical,11,26398.04,26791.15,10453.38,10129.76
+2013,116,Arnot Ogden Medical Center,315,1,"Shoulder, Upper Arm & Forearm Procedures",Minor,P,Surgical,7,12585.84,12654.65,4456.08,4798.01
+2013,116,Arnot Ogden Medical Center,315,2,"Shoulder, Upper Arm & Forearm Procedures",Moderate,P,Surgical,45,29823.15,29288.16,11363.36,11034.79
+2013,116,Arnot Ogden Medical Center,315,3,"Shoulder, Upper Arm & Forearm Procedures",Major,P,Surgical,4,32965.09,34346.71,12411.74,12914.51
+2013,116,Arnot Ogden Medical Center,315,4,"Shoulder, Upper Arm & Forearm Procedures",Extreme,P,Surgical,1,158349.43,158349.43,48107.34,48107.34
+2013,116,Arnot Ogden Medical Center,316,1,Hand & Wrist Procedures,Minor,P,Surgical,1,7142.76,7142.76,2209.86,2209.86
+2013,116,Arnot Ogden Medical Center,316,2,Hand & Wrist Procedures,Moderate,P,Surgical,1,15290.86,15290.86,7579.16,7579.16
+2013,116,Arnot Ogden Medical Center,317,1,"Tendon, Muscle & Other Soft Tissue Procedures",Minor,P,Surgical,11,11229.17,12214.84,3726.16,4053.22
+2013,116,Arnot Ogden Medical Center,317,2,"Tendon, Muscle & Other Soft Tissue Procedures",Moderate,P,Surgical,6,14576.17,12125.45,5413.88,3948.23
+2013,116,Arnot Ogden Medical Center,317,3,"Tendon, Muscle & Other Soft Tissue Procedures",Major,P,Surgical,1,26040.65,26040.65,9797.22,9797.22
+2013,116,Arnot Ogden Medical Center,317,4,"Tendon, Muscle & Other Soft Tissue Procedures",Extreme,P,Surgical,1,71374.78,71374.78,25324.81,25324.81
+2013,116,Arnot Ogden Medical Center,320,1,Other Musculoskeletal System & Connective Tissue Procedures,Minor,P,Surgical,1,22671.41,22671.41,8509.17,8509.17
+2013,116,Arnot Ogden Medical Center,320,2,Other Musculoskeletal System & Connective Tissue Procedures,Moderate,P,Surgical,4,20400.73,20982.67,8117.16,8558.43
+2013,116,Arnot Ogden Medical Center,320,3,Other Musculoskeletal System & Connective Tissue Procedures,Major,P,Surgical,6,50483.91,35509.9,16936.15,12941.25
+2013,116,Arnot Ogden Medical Center,320,4,Other Musculoskeletal System & Connective Tissue Procedures,Extreme,P,Surgical,1,23785.53,23785.53,9737.36,9737.36
+2013,116,Arnot Ogden Medical Center,321,1,Cervical Spinal Fusion & Other Back/Neck Proc Exc Disc Excis/Decomp,Minor,P,Surgical,26,49334.5,50325.33,16448.37,16720.74
+2013,116,Arnot Ogden Medical Center,321,2,Cervical Spinal Fusion & Other Back/Neck Proc Exc Disc Excis/Decomp,Moderate,P,Surgical,17,71121.21,62929.75,24046.88,19803.91
+2013,116,Arnot Ogden Medical Center,321,3,Cervical Spinal Fusion & Other Back/Neck Proc Exc Disc Excis/Decomp,Major,P,Surgical,3,99227.46,99982.1,34923.26,31812.9
+2013,116,Arnot Ogden Medical Center,340,1,Fracture Of Femur,Minor,M,Medical,2,6894.49,6894.49,2612.58,2612.58
+2013,116,Arnot Ogden Medical Center,340,2,Fracture Of Femur,Moderate,M,Medical,7,8454.03,7402.75,3701.17,2482.42
+2013,116,Arnot Ogden Medical Center,340,3,Fracture Of Femur,Major,M,Medical,5,21180.77,16480.98,8668.95,7605.53
+2013,116,Arnot Ogden Medical Center,341,1,Fracture Of Pelvis Or Dislocation Of Hip,Minor,M,Medical,3,9852.11,10129.24,3484.29,2929.36
+2013,116,Arnot Ogden Medical Center,341,2,Fracture Of Pelvis Or Dislocation Of Hip,Moderate,M,Medical,7,14589.07,14624.13,3761.43,3486.13
+2013,116,Arnot Ogden Medical Center,341,3,Fracture Of Pelvis Or Dislocation Of Hip,Major,M,Medical,6,12547.73,11678.46,4937.62,4313.43
+2013,116,Arnot Ogden Medical Center,342,1,"Fractures & Dislocations Except Femur, Pelvis & Back",Minor,M,Medical,4,10766.01,8660.93,5309.69,3371.77
+2013,116,Arnot Ogden Medical Center,342,2,"Fractures & Dislocations Except Femur, Pelvis & Back",Moderate,M,Medical,15,15546.41,13417.22,5219.36,4167.64
+2013,116,Arnot Ogden Medical Center,342,3,"Fractures & Dislocations Except Femur, Pelvis & Back",Major,M,Medical,9,19862.14,16554.91,6870.92,6617.92
+2013,116,Arnot Ogden Medical Center,343,2,Musculoskeletal Malignancy & Pathol Fracture D/T Muscskel Malig,Moderate,M,Medical,3,9164.02,8993.39,3297.42,2435.73
+2013,116,Arnot Ogden Medical Center,343,3,Musculoskeletal Malignancy & Pathol Fracture D/T Muscskel Malig,Major,M,Medical,7,33880.93,35617.63,10072.94,11039.29
+2013,116,Arnot Ogden Medical Center,343,4,Musculoskeletal Malignancy & Pathol Fracture D/T Muscskel Malig,Extreme,M,Medical,1,41869.72,41869.72,23739.17,23739.17
+2013,116,Arnot Ogden Medical Center,344,2,"Osteomyelitis, Septic Arthritis & Other Musculoskeletal Infections",Moderate,M,Medical,15,14307.42,14401.66,5577.38,5553.7
+2013,116,Arnot Ogden Medical Center,344,3,"Osteomyelitis, Septic Arthritis & Other Musculoskeletal Infections",Major,M,Medical,11,20957.81,17030.55,10565.76,8492.13
+2013,116,Arnot Ogden Medical Center,346,1,Connective Tissue Disorders,Minor,M,Medical,3,17079.01,11280.23,6112.13,4221.92
+2013,116,Arnot Ogden Medical Center,346,2,Connective Tissue Disorders,Moderate,M,Medical,6,11724.49,12608.17,4393.87,4330.97
+2013,116,Arnot Ogden Medical Center,346,3,Connective Tissue Disorders,Major,M,Medical,1,20199.77,20199.77,7109.56,7109.56
+2013,116,Arnot Ogden Medical Center,346,4,Connective Tissue Disorders,Extreme,M,Medical,1,85056.82,85056.82,26295,26295
+2013,116,Arnot Ogden Medical Center,347,1,"Other Back & Neck Disorders, Fractures & Injuries",Minor,M,Medical,16,14403.74,12595.63,4216.5,3486.48
+2013,116,Arnot Ogden Medical Center,347,2,"Other Back & Neck Disorders, Fractures & Injuries",Moderate,M,Medical,38,17682.05,13875.04,6322.6,4866.23
+2013,116,Arnot Ogden Medical Center,347,3,"Other Back & Neck Disorders, Fractures & Injuries",Major,M,Medical,22,21597.71,17115.61,7161.44,6056.1
+2013,116,Arnot Ogden Medical Center,349,1,"Malfunction, Reaction, Complic Of Orthopedic Device Or Procedure",Minor,M,Medical,1,8058.12,8058.12,2979.56,2979.56
+2013,116,Arnot Ogden Medical Center,349,2,"Malfunction, Reaction, Complic Of Orthopedic Device Or Procedure",Moderate,M,Medical,12,12118.5,11186.34,4778.93,4466.52
+2013,116,Arnot Ogden Medical Center,349,3,"Malfunction, Reaction, Complic Of Orthopedic Device Or Procedure",Major,M,Medical,4,15233.64,15708.41,7275.76,7668.85
+2013,116,Arnot Ogden Medical Center,351,1,Other Musculoskeletal System & Connective Tissue Diagnoses,Minor,M,Medical,4,10995.55,11741.11,3197.29,3235.25
+2013,116,Arnot Ogden Medical Center,351,2,Other Musculoskeletal System & Connective Tissue Diagnoses,Moderate,M,Medical,30,11807.52,10078.19,4389.67,3983.51
+2013,116,Arnot Ogden Medical Center,351,3,Other Musculoskeletal System & Connective Tissue Diagnoses,Major,M,Medical,12,13884.04,12072.55,5508.4,4935.26
+2013,116,Arnot Ogden Medical Center,351,4,Other Musculoskeletal System & Connective Tissue Diagnoses,Extreme,M,Medical,1,21079.72,21079.72,7580.6,7580.6
+2013,116,Arnot Ogden Medical Center,362,1,Mastectomy Procedures,Minor,P,Surgical,5,11409.3,9813.98,3427.83,2972.67
+2013,116,Arnot Ogden Medical Center,362,2,Mastectomy Procedures,Moderate,P,Surgical,3,20497.28,22800.85,6955.91,7339.82
+2013,116,Arnot Ogden Medical Center,363,1,Breast Procedures Except Mastectomy,Minor,P,Surgical,1,9396.77,9396.77,3220.96,3220.96
+2013,116,Arnot Ogden Medical Center,363,2,Breast Procedures Except Mastectomy,Moderate,P,Surgical,1,10711.69,10711.69,3956.32,3956.32
+2013,116,Arnot Ogden Medical Center,363,3,Breast Procedures Except Mastectomy,Major,P,Surgical,2,17570.33,17570.33,6549.98,6549.98
+2013,116,Arnot Ogden Medical Center,364,1,"Other Skin, Subcutaneous Tissue & Related Procedures",Minor,P,Surgical,10,13985.15,12619.92,5214.79,5070.52
+2013,116,Arnot Ogden Medical Center,364,2,"Other Skin, Subcutaneous Tissue & Related Procedures",Moderate,P,Surgical,3,8305.47,6412.45,2972.54,2030.04
+2013,116,Arnot Ogden Medical Center,380,1,Skin Ulcers,Minor,M,Medical,1,20175.54,20175.54,5982.16,5982.16
+2013,116,Arnot Ogden Medical Center,380,2,Skin Ulcers,Moderate,M,Medical,6,18136.9,12979.94,7851.86,5672.09
+2013,116,Arnot Ogden Medical Center,380,3,Skin Ulcers,Major,M,Medical,5,20232.81,16965.42,9415.65,10418.78
+2013,116,Arnot Ogden Medical Center,382,3,Malignant Breast Disorders,Major,M,Medical,3,32752.87,29024.59,9841.83,10472.21
+2013,116,Arnot Ogden Medical Center,383,1,Cellulitis & Other Bacterial Skin Infections,Minor,M,Medical,89,7577.02,7402.88,3262.93,3027.44
+2013,116,Arnot Ogden Medical Center,383,2,Cellulitis & Other Bacterial Skin Infections,Moderate,M,Medical,148,11698.95,9857.99,4917.5,3944.84
+2013,116,Arnot Ogden Medical Center,383,3,Cellulitis & Other Bacterial Skin Infections,Major,M,Medical,52,17355.26,14780.29,7186.09,6376.4
+2013,116,Arnot Ogden Medical Center,383,4,Cellulitis & Other Bacterial Skin Infections,Extreme,M,Medical,1,131613.72,131613.72,41872.25,41872.25
+2013,116,Arnot Ogden Medical Center,384,1,"Contusion, Open Wound & Other Trauma To Skin & Subcutaneous Tissue",Minor,M,Medical,2,4401.06,4401.06,1387.75,1387.75
+2013,116,Arnot Ogden Medical Center,384,2,"Contusion, Open Wound & Other Trauma To Skin & Subcutaneous Tissue",Moderate,M,Medical,4,12183.14,12095.56,3260.57,2787.26
+2013,116,Arnot Ogden Medical Center,384,3,"Contusion, Open Wound & Other Trauma To Skin & Subcutaneous Tissue",Major,M,Medical,8,22232.18,19815.09,7374.05,7815.14
+2013,116,Arnot Ogden Medical Center,385,1,"Other Skin, Subcutaneous Tissue & Breast Disorders",Minor,M,Medical,5,6646.94,6321.01,2477.64,2236.18
+2013,116,Arnot Ogden Medical Center,385,2,"Other Skin, Subcutaneous Tissue & Breast Disorders",Moderate,M,Medical,2,4526.19,4526.19,1909.8,1909.8
+2013,116,Arnot Ogden Medical Center,385,3,"Other Skin, Subcutaneous Tissue & Breast Disorders",Major,M,Medical,1,14199.59,14199.59,6568.73,6568.73
+2013,116,Arnot Ogden Medical Center,401,1,Pituitary & Adrenal Procedures,Minor,P,Surgical,1,35819.17,35819.17,10056.73,10056.73
+2013,116,Arnot Ogden Medical Center,401,2,Pituitary & Adrenal Procedures,Moderate,P,Surgical,2,48866.99,48866.99,13453.03,13453.03
+2013,116,Arnot Ogden Medical Center,403,1,Procedures For Obesity,Minor,P,Surgical,104,21824.76,23203.11,6245.92,6419.22
+2013,116,Arnot Ogden Medical Center,403,2,Procedures For Obesity,Moderate,P,Surgical,49,25879.09,23818.47,7375.35,6798.97
+2013,116,Arnot Ogden Medical Center,403,3,Procedures For Obesity,Major,P,Surgical,1,68127.89,68127.89,20436.73,20436.73
+2013,116,Arnot Ogden Medical Center,403,4,Procedures For Obesity,Extreme,P,Surgical,1,83898.74,83898.74,27279.65,27279.65
+2013,116,Arnot Ogden Medical Center,404,1,"Thyroid, Parathyroid & Thyroglossal Procedures",Minor,P,Surgical,8,13379.39,13673.26,3899.22,3734.97
+2013,116,Arnot Ogden Medical Center,404,2,"Thyroid, Parathyroid & Thyroglossal Procedures",Moderate,P,Surgical,8,17675.7,14411.65,5474.54,4243.91
+2013,116,Arnot Ogden Medical Center,405,2,"Other Procedures For Endocrine, Nutritional & Metabolic Disorders",Moderate,P,Surgical,1,19305.98,19305.98,4376.48,4376.48
+2013,116,Arnot Ogden Medical Center,405,3,"Other Procedures For Endocrine, Nutritional & Metabolic Disorders",Major,P,Surgical,2,33948.62,33948.62,11010.35,11010.35
+2013,116,Arnot Ogden Medical Center,420,1,Diabetes,Minor,M,Medical,17,7792.97,6937.71,3014.14,2488.99
+2013,116,Arnot Ogden Medical Center,420,2,Diabetes,Moderate,M,Medical,61,12942.75,11088.34,4097.41,3595.02
+2013,116,Arnot Ogden Medical Center,420,3,Diabetes,Major,M,Medical,41,17370.01,17077.5,5844.16,5385.66
+2013,116,Arnot Ogden Medical Center,420,4,Diabetes,Extreme,M,Medical,3,22973.78,25086.94,7824.3,9596.21
+2013,116,Arnot Ogden Medical Center,421,1,"Malnutrition, Failure To Thrive & Other Nutritional Disorders",Minor,M,Medical,3,4732.64,4042.69,2695.88,2245.32
+2013,116,Arnot Ogden Medical Center,421,2,"Malnutrition, Failure To Thrive & Other Nutritional Disorders",Moderate,M,Medical,1,4964.73,4964.73,2043.6,2043.6
+2013,116,Arnot Ogden Medical Center,421,3,"Malnutrition, Failure To Thrive & Other Nutritional Disorders",Major,M,Medical,6,11005.91,12459,4656.54,5155.41
+2013,116,Arnot Ogden Medical Center,422,1,Hypovolemia & Related Electrolyte Disorders,Minor,M,Medical,3,5556.7,2615.62,2157.62,1179.74
+2013,116,Arnot Ogden Medical Center,422,2,Hypovolemia & Related Electrolyte Disorders,Moderate,M,Medical,17,8490.42,7117.4,3552.38,3070.63
+2013,116,Arnot Ogden Medical Center,422,3,Hypovolemia & Related Electrolyte Disorders,Major,M,Medical,21,15984.29,13281.47,5873.65,5433.86
+2013,116,Arnot Ogden Medical Center,423,3,Inborn Errors Of Metabolism,Major,M,Medical,1,9094.46,9094.46,2852.01,2852.01
+2013,116,Arnot Ogden Medical Center,424,1,Other Endocrine Disorders,Minor,M,Medical,1,14557.32,14557.32,4372.7,4372.7
+2013,116,Arnot Ogden Medical Center,424,2,Other Endocrine Disorders,Moderate,M,Medical,10,11673.32,9521.41,4391.91,3533.84
+2013,116,Arnot Ogden Medical Center,424,3,Other Endocrine Disorders,Major,M,Medical,5,30437.59,31310,10619.35,9599.66
+2013,116,Arnot Ogden Medical Center,425,1,Electrolyte Disorders Except Hypovolemia Related,Minor,M,Medical,2,9537.91,9537.91,3774.07,3774.07
+2013,116,Arnot Ogden Medical Center,425,2,Electrolyte Disorders Except Hypovolemia Related,Moderate,M,Medical,45,11145.46,8723.7,4054.93,3074.5
+2013,116,Arnot Ogden Medical Center,425,3,Electrolyte Disorders Except Hypovolemia Related,Major,M,Medical,25,14117.57,10738.95,5296.28,4246.79
+2013,116,Arnot Ogden Medical Center,425,4,Electrolyte Disorders Except Hypovolemia Related,Extreme,M,Medical,3,36178.42,41361.32,12170.26,14076.23
+2013,116,Arnot Ogden Medical Center,441,1,Major Bladder Procedures,Minor,P,Surgical,1,45865.07,45865.07,14399.3,14399.3
+2013,116,Arnot Ogden Medical Center,441,2,Major Bladder Procedures,Moderate,P,Surgical,2,25572.6,25572.6,8120.82,8120.82
+2013,116,Arnot Ogden Medical Center,441,3,Major Bladder Procedures,Major,P,Surgical,3,60344.61,64106.62,19939.58,20355.19
+2013,116,Arnot Ogden Medical Center,442,1,Kidney & Urinary Tract Procedures For Malignancy,Minor,P,Surgical,4,24674.38,25339.59,8191.21,8043.97
+2013,116,Arnot Ogden Medical Center,442,2,Kidney & Urinary Tract Procedures For Malignancy,Moderate,P,Surgical,5,41583.68,34871.04,11999.62,10246.35
+2013,116,Arnot Ogden Medical Center,442,3,Kidney & Urinary Tract Procedures For Malignancy,Major,P,Surgical,3,53365.11,52065.76,18187.86,16449.65
+2013,116,Arnot Ogden Medical Center,442,4,Kidney & Urinary Tract Procedures For Malignancy,Extreme,P,Surgical,2,91065.57,91065.57,26339.81,26339.81
+2013,116,Arnot Ogden Medical Center,443,1,Kidney & Urinary Tract Procedures For Nonmalignancy,Minor,P,Surgical,8,21651.94,24048.01,6087.48,6719.82
+2013,116,Arnot Ogden Medical Center,443,2,Kidney & Urinary Tract Procedures For Nonmalignancy,Moderate,P,Surgical,17,25278.75,24322.42,7327.31,6688.14
+2013,116,Arnot Ogden Medical Center,443,3,Kidney & Urinary Tract Procedures For Nonmalignancy,Major,P,Surgical,4,44549.85,43106.32,14022.53,11881.97
+2013,116,Arnot Ogden Medical Center,443,4,Kidney & Urinary Tract Procedures For Nonmalignancy,Extreme,P,Surgical,1,18363.58,18363.58,6745.52,6745.52
+2013,116,Arnot Ogden Medical Center,444,2,Renal Dialysis Access Device Procedure Only,Moderate,P,Surgical,1,29980.47,29980.47,7845.11,7845.11
+2013,116,Arnot Ogden Medical Center,444,3,Renal Dialysis Access Device Procedure Only,Major,P,Surgical,1,34314.91,34314.91,12467.27,12467.27
+2013,116,Arnot Ogden Medical Center,445,1,Other Bladder Procedures,Minor,P,Surgical,1,14955.71,14955.71,4939.92,4939.92
+2013,116,Arnot Ogden Medical Center,445,3,Other Bladder Procedures,Major,P,Surgical,1,87910.98,87910.98,28973.8,28973.8
+2013,116,Arnot Ogden Medical Center,446,1,Urethral & Transurethral Procedures,Minor,P,Surgical,5,13320.18,12372.04,3718.19,3498.35
+2013,116,Arnot Ogden Medical Center,446,2,Urethral & Transurethral Procedures,Moderate,P,Surgical,24,14220.43,14393.44,4415.46,3877.87
+2013,116,Arnot Ogden Medical Center,446,3,Urethral & Transurethral Procedures,Major,P,Surgical,5,31879.46,34995.47,10771.26,11563.04
+2013,116,Arnot Ogden Medical Center,447,2,"Other Kidney, Urinary Tract & Related Procedures",Moderate,P,Surgical,1,17228.61,17228.61,5728.06,5728.06
+2013,116,Arnot Ogden Medical Center,447,3,"Other Kidney, Urinary Tract & Related Procedures",Major,P,Surgical,5,33751.33,25001.04,11468.12,9682.45
+2013,116,Arnot Ogden Medical Center,460,2,Renal Failure,Moderate,M,Medical,8,15374.66,13224.64,5902.79,5325.09
+2013,116,Arnot Ogden Medical Center,460,3,Renal Failure,Major,M,Medical,100,17418.42,15166.43,6857.4,5837.32
+2013,116,Arnot Ogden Medical Center,460,4,Renal Failure,Extreme,M,Medical,9,45236.87,38553.66,15298.23,11775.33
+2013,116,Arnot Ogden Medical Center,461,3,Kidney & Urinary Tract Malignancy,Major,M,Medical,3,21374.54,26228.94,8343.3,7540.51
+2013,116,Arnot Ogden Medical Center,462,2,Nephritis & Nephrosis,Moderate,M,Medical,2,8098.52,8098.52,3645.18,3645.18
+2013,116,Arnot Ogden Medical Center,463,1,Kidney & Urinary Tract Infections,Minor,M,Medical,33,7089.36,6290.04,2548.81,2338.4
+2013,116,Arnot Ogden Medical Center,463,2,Kidney & Urinary Tract Infections,Moderate,M,Medical,118,11148.32,10466.01,4095.52,3721.48
+2013,116,Arnot Ogden Medical Center,463,3,Kidney & Urinary Tract Infections,Major,M,Medical,60,16426.58,14363.28,6440.77,5735.71
+2013,116,Arnot Ogden Medical Center,463,4,Kidney & Urinary Tract Infections,Extreme,M,Medical,5,25808.07,18507.88,10317.44,8192.43
+2013,116,Arnot Ogden Medical Center,465,1,Urinary Stones & Acquired Upper Urinary Tract Obstruction,Minor,M,Medical,11,9841.39,9095.72,2637.5,2702.33
+2013,116,Arnot Ogden Medical Center,465,2,Urinary Stones & Acquired Upper Urinary Tract Obstruction,Moderate,M,Medical,50,9984.97,9717.52,2947.34,2720.21
+2013,116,Arnot Ogden Medical Center,465,3,Urinary Stones & Acquired Upper Urinary Tract Obstruction,Major,M,Medical,7,17871.8,16390.94,5552.69,5003.68
+2013,116,Arnot Ogden Medical Center,466,2,"Malfunction, Reaction, Complic Of Genitourinary Device Or Proc",Moderate,M,Medical,6,24559.46,25408.48,9205.01,8252.17
+2013,116,Arnot Ogden Medical Center,466,3,"Malfunction, Reaction, Complic Of Genitourinary Device Or Proc",Major,M,Medical,17,16062.19,14741.12,6822.5,7034.9
+2013,116,Arnot Ogden Medical Center,466,4,"Malfunction, Reaction, Complic Of Genitourinary Device Or Proc",Extreme,M,Medical,2,105281.01,105281.01,42521.37,42521.37
+2013,116,Arnot Ogden Medical Center,468,1,"Other Kidney & Urinary Tract Diagnoses, Signs & Symptoms",Minor,M,Medical,6,11922.47,11642.88,3848.47,3096.12
+2013,116,Arnot Ogden Medical Center,468,2,"Other Kidney & Urinary Tract Diagnoses, Signs & Symptoms",Moderate,M,Medical,29,12716.97,12117.8,4320.89,3971.09
+2013,116,Arnot Ogden Medical Center,468,3,"Other Kidney & Urinary Tract Diagnoses, Signs & Symptoms",Major,M,Medical,11,23563.6,22680.35,9324.41,7218.12
+2013,116,Arnot Ogden Medical Center,480,1,Major Male Pelvic Procedures,Minor,P,Surgical,5,21888.13,20391.05,7808.54,8080.15
+2013,116,Arnot Ogden Medical Center,480,2,Major Male Pelvic Procedures,Moderate,P,Surgical,4,29153.97,27391.92,9385.14,8596.99
+2013,116,Arnot Ogden Medical Center,481,2,Penis Procedures,Moderate,P,Surgical,1,30854.26,30854.26,14716.17,14716.17
+2013,116,Arnot Ogden Medical Center,482,1,Transurethral Prostatectomy,Minor,P,Surgical,13,9160.7,8427.77,3928.99,3488.14
+2013,116,Arnot Ogden Medical Center,482,2,Transurethral Prostatectomy,Moderate,P,Surgical,16,10362.81,9849.2,4045.9,3964.53
+2013,116,Arnot Ogden Medical Center,482,3,Transurethral Prostatectomy,Major,P,Surgical,6,25146.09,27657.4,9054.72,9112
+2013,116,Arnot Ogden Medical Center,484,2,Other Male Reproductive System & Related Procedures,Moderate,P,Surgical,1,9487.88,9487.88,2187.98,2187.98
+2013,116,Arnot Ogden Medical Center,484,3,Other Male Reproductive System & Related Procedures,Major,P,Surgical,1,25164.76,25164.76,8131.9,8131.9
+2013,116,Arnot Ogden Medical Center,500,2,"Malignancy, Male Reproductive System",Moderate,M,Medical,1,2194.13,2194.13,2029.65,2029.65
+2013,116,Arnot Ogden Medical Center,501,1,Male Reproductive System Diagnoses Except Malignancy,Minor,M,Medical,2,5931.09,5931.09,2878.48,2878.48
+2013,116,Arnot Ogden Medical Center,501,2,Male Reproductive System Diagnoses Except Malignancy,Moderate,M,Medical,6,9565.14,8165.16,3454.93,3337.17
+2013,116,Arnot Ogden Medical Center,501,3,Male Reproductive System Diagnoses Except Malignancy,Major,M,Medical,1,12637.14,12637.14,4023.89,4023.89
+2013,116,Arnot Ogden Medical Center,511,1,Uterine & Adnexa Procedures For Ovarian & Adnexal Malignancy,Minor,P,Surgical,1,18215.01,18215.01,4595.9,4595.9
+2013,116,Arnot Ogden Medical Center,512,1,Uterine & Adnexa Procedures For Non-Ovarian & Non-Adnexal Malig,Minor,P,Surgical,1,45499.58,45499.58,15173.39,15173.39
+2013,116,Arnot Ogden Medical Center,512,2,Uterine & Adnexa Procedures For Non-Ovarian & Non-Adnexal Malig,Moderate,P,Surgical,2,11233.21,11233.21,3401.95,3401.95
+2013,116,Arnot Ogden Medical Center,513,1,Uterine & Adnexa Procedures For Non-Malignancy Except Leiomyoma,Minor,P,Surgical,31,14591.89,14223.77,4655.09,4425.17
+2013,116,Arnot Ogden Medical Center,513,2,Uterine & Adnexa Procedures For Non-Malignancy Except Leiomyoma,Moderate,P,Surgical,21,18399.23,15348.24,5774.68,4739.78
+2013,116,Arnot Ogden Medical Center,513,3,Uterine & Adnexa Procedures For Non-Malignancy Except Leiomyoma,Major,P,Surgical,2,24089.47,24089.47,7492.91,7492.91
+2013,116,Arnot Ogden Medical Center,513,4,Uterine & Adnexa Procedures For Non-Malignancy Except Leiomyoma,Extreme,P,Surgical,1,76539.17,76539.17,25674.78,25674.78
+2013,116,Arnot Ogden Medical Center,514,2,Female Reproductive System Reconstructive Procedures,Moderate,P,Surgical,1,10250.21,10250.21,3862.13,3862.13
+2013,116,Arnot Ogden Medical Center,518,2,Other Female Reproductive System & Related Procedures,Moderate,P,Surgical,2,11470.95,11470.95,4627.29,4627.29
+2013,116,Arnot Ogden Medical Center,519,1,Uterine & Adnexa Procedures For Leiomyoma,Minor,P,Surgical,4,13630.78,14603.98,3961.9,3824.6
+2013,116,Arnot Ogden Medical Center,519,2,Uterine & Adnexa Procedures For Leiomyoma,Moderate,P,Surgical,5,15356.87,14192.92,4841.21,4919.92
+2013,116,Arnot Ogden Medical Center,519,3,Uterine & Adnexa Procedures For Leiomyoma,Major,P,Surgical,1,13361.39,13361.39,4300.29,4300.29
+2013,116,Arnot Ogden Medical Center,530,1,Female Reproductive System Malignancy,Minor,M,Medical,2,1567.96,1567.96,1141.86,1141.86
+2013,116,Arnot Ogden Medical Center,530,2,Female Reproductive System Malignancy,Moderate,M,Medical,4,14523.26,14496.49,3995.13,4216.1
+2013,116,Arnot Ogden Medical Center,530,3,Female Reproductive System Malignancy,Major,M,Medical,1,18082.06,18082.06,4888.5,4888.5
+2013,116,Arnot Ogden Medical Center,531,1,Female Reproductive System Infections,Minor,M,Medical,3,10006.84,10593.38,2733.42,2844.57
+2013,116,Arnot Ogden Medical Center,531,2,Female Reproductive System Infections,Moderate,M,Medical,2,7874.19,7874.19,3839.12,3839.12
+2013,116,Arnot Ogden Medical Center,531,3,Female Reproductive System Infections,Major,M,Medical,4,18454,13862.06,7467.14,5483.98
+2013,116,Arnot Ogden Medical Center,532,1,Menstrual & Other Female Reproductive System Disorders,Minor,M,Medical,2,6762.33,6762.33,1262.19,1262.19
+2013,116,Arnot Ogden Medical Center,532,2,Menstrual & Other Female Reproductive System Disorders,Moderate,M,Medical,2,7919.11,7919.11,2195.74,2195.74
+2013,116,Arnot Ogden Medical Center,540,1,Cesarean Delivery,Minor,P,Surgical,271,7649.76,7212.77,4329.34,4058.69
+2013,116,Arnot Ogden Medical Center,540,2,Cesarean Delivery,Moderate,P,Surgical,122,10896.23,9422.47,5665.83,5128.99
+2013,116,Arnot Ogden Medical Center,540,3,Cesarean Delivery,Major,P,Surgical,32,14358.85,11332.09,7319.37,5890.64
+2013,116,Arnot Ogden Medical Center,540,4,Cesarean Delivery,Extreme,P,Surgical,1,26758.16,26758.16,9001.5,9001.5
+2013,116,Arnot Ogden Medical Center,541,1,Vaginal Delivery W Sterilization &/Or D&C,Minor,P,Surgical,36,9415.36,9256.18,4096.57,3890.26
+2013,116,Arnot Ogden Medical Center,541,2,Vaginal Delivery W Sterilization &/Or D&C,Moderate,P,Surgical,12,10066.02,10169.36,4317.23,4546.13
+2013,116,Arnot Ogden Medical Center,541,3,Vaginal Delivery W Sterilization &/Or D&C,Major,P,Surgical,4,14720.28,9617.76,5857.73,4341.44
+2013,116,Arnot Ogden Medical Center,542,2,Vaginal Delivery W Complicating Procedures Exc Sterilization &/Or D&C,Moderate,P,Surgical,1,5848.54,5848.54,2974.77,2974.77
+2013,116,Arnot Ogden Medical Center,544,1,"D&C, Aspiration Curettage Or Hysterotomy For Obstetric Diagnoses",Minor,P,Surgical,2,7466.66,7466.66,2537.19,2537.19
+2013,116,Arnot Ogden Medical Center,544,2,"D&C, Aspiration Curettage Or Hysterotomy For Obstetric Diagnoses",Moderate,P,Surgical,1,10974.13,10974.13,3168.13,3168.13
+2013,116,Arnot Ogden Medical Center,545,1,Ectopic Pregnancy Procedure,Minor,P,Surgical,2,14109.92,14109.92,4843.53,4843.53
+2013,116,Arnot Ogden Medical Center,560,1,Vaginal Delivery,Minor,M,Medical,592,5992.74,5420.69,3188.22,2883.64
+2013,116,Arnot Ogden Medical Center,560,2,Vaginal Delivery,Moderate,M,Medical,257,6700.02,6030.13,3462.53,3081.18
+2013,116,Arnot Ogden Medical Center,560,3,Vaginal Delivery,Major,M,Medical,30,8402.28,7316.03,4353.15,4017.82
+2013,116,Arnot Ogden Medical Center,561,1,Postpartum & Post Abortion Diagnoses W/O Procedure,Minor,M,Medical,7,4243.66,4600.94,2289.29,2470.49
+2013,116,Arnot Ogden Medical Center,561,2,Postpartum & Post Abortion Diagnoses W/O Procedure,Moderate,M,Medical,9,8150.94,6996.51,3107.9,3414.53
+2013,116,Arnot Ogden Medical Center,561,4,Postpartum & Post Abortion Diagnoses W/O Procedure,Extreme,M,Medical,1,18818.62,18818.62,6165.52,6165.52
+2013,116,Arnot Ogden Medical Center,563,1,Preterm Labor,Minor,M,Medical,15,4116.6,3415.3,2704.13,1726.34
+2013,116,Arnot Ogden Medical Center,563,2,Preterm Labor,Moderate,M,Medical,1,4282.49,4282.49,1874.07,1874.07
+2013,116,Arnot Ogden Medical Center,563,3,Preterm Labor,Major,M,Medical,1,1447.36,1447.36,1136.68,1136.68
+2013,116,Arnot Ogden Medical Center,565,1,False Labor,Minor,M,Medical,4,1683.37,1337.62,1145.65,1095.21
+2013,116,Arnot Ogden Medical Center,566,1,Other Antepartum Diagnoses,Minor,M,Medical,18,5390.68,5571.21,2474.58,2298.7
+2013,116,Arnot Ogden Medical Center,566,2,Other Antepartum Diagnoses,Moderate,M,Medical,27,6204.87,4678.36,2867.57,1914.36
+2013,116,Arnot Ogden Medical Center,566,3,Other Antepartum Diagnoses,Major,M,Medical,8,7775.8,6604.08,3990.25,2786.77
+2013,116,Arnot Ogden Medical Center,581,2,"Neonate, Transferred < 5 Days Old, Born Here",Moderate,M,Medical,1,6127.21,6127.21,2316.09,2316.09
+2013,116,Arnot Ogden Medical Center,581,3,"Neonate, Transferred < 5 Days Old, Born Here",Major,M,Medical,1,7036.41,7036.41,2096.08,2096.08
+2013,116,Arnot Ogden Medical Center,581,4,"Neonate, Transferred < 5 Days Old, Born Here",Extreme,M,Medical,1,8633.53,8633.53,2183.14,2183.14
+2013,116,Arnot Ogden Medical Center,589,1,Neonate Bwt <500G Or Ga <24 Weeks,Minor,M,Medical,3,2558.82,2611.13,1349.65,1553.5
+2013,116,Arnot Ogden Medical Center,589,4,Neonate Bwt <500G Or Ga <24 Weeks,Extreme,M,Medical,1,194.87,194.87,112.94,112.94
+2013,116,Arnot Ogden Medical Center,591,4,Neonate Birthwt 500-749G W/O Major Procedure,Extreme,M,Medical,5,210578.03,248405.68,80265.35,94484.4
+2013,116,Arnot Ogden Medical Center,593,2,Neonate Birthwt 750-999G W/O Major Procedure,Moderate,M,Medical,1,132385.29,132385.29,59589.56,59589.56
+2013,116,Arnot Ogden Medical Center,593,3,Neonate Birthwt 750-999G W/O Major Procedure,Major,M,Medical,5,99575.45,108085.51,42507.53,47962.92
+2013,116,Arnot Ogden Medical Center,593,4,Neonate Birthwt 750-999G W/O Major Procedure,Extreme,M,Medical,6,229016.31,248116.57,85871.38,92099.87
+2013,116,Arnot Ogden Medical Center,602,2,Neonate Bwt 1000-1249G W Resp Dist Synd/Oth Maj Resp Or Maj Anom,Moderate,M,Medical,1,61464.26,61464.26,28709.14,28709.14
+2013,116,Arnot Ogden Medical Center,602,3,Neonate Bwt 1000-1249G W Resp Dist Synd/Oth Maj Resp Or Maj Anom,Major,M,Medical,2,116382.13,116382.13,52472.21,52472.21
+2013,116,Arnot Ogden Medical Center,602,4,Neonate Bwt 1000-1249G W Resp Dist Synd/Oth Maj Resp Or Maj Anom,Extreme,M,Medical,7,186626,204165.8,70351.76,76766.13
+2013,116,Arnot Ogden Medical Center,603,2,Neonate Birthwt 1000-1249G W Or W/O Other Significant Condition,Moderate,M,Medical,2,43729.83,43729.83,19350.95,19350.95
+2013,116,Arnot Ogden Medical Center,603,3,Neonate Birthwt 1000-1249G W Or W/O Other Significant Condition,Major,M,Medical,3,41100.1,57837.56,14202.95,20338.15
+2013,116,Arnot Ogden Medical Center,607,2,Neonate Bwt 1250-1499G W Resp Dist Synd/Oth Maj Resp Or Maj Anom,Moderate,M,Medical,2,61026.7,61026.7,29644.99,29644.99
+2013,116,Arnot Ogden Medical Center,607,3,Neonate Bwt 1250-1499G W Resp Dist Synd/Oth Maj Resp Or Maj Anom,Major,M,Medical,4,98196.07,89798.52,42513.16,38501.29
+2013,116,Arnot Ogden Medical Center,607,4,Neonate Bwt 1250-1499G W Resp Dist Synd/Oth Maj Resp Or Maj Anom,Extreme,M,Medical,1,144276.46,144276.46,45642.09,45642.09
+2013,116,Arnot Ogden Medical Center,608,2,Neonate Bwt 1250-1499G W Or W/O Other Significant Condition,Moderate,M,Medical,5,66585.7,70732.57,30041.46,32388.6
+2013,116,Arnot Ogden Medical Center,608,4,Neonate Bwt 1250-1499G W Or W/O Other Significant Condition,Extreme,M,Medical,1,88768.32,88768.32,38762.84,38762.84
+2013,116,Arnot Ogden Medical Center,609,3,Neonate Bwt 1500-2499G W Major Procedure,Major,P,Surgical,1,49282.04,49282.04,16298.28,16298.28
+2013,116,Arnot Ogden Medical Center,611,1,Neonate Birthwt 1500-1999G W Major Anomaly,Minor,M,Medical,1,28640,28640,11028.71,11028.71
+2013,116,Arnot Ogden Medical Center,611,2,Neonate Birthwt 1500-1999G W Major Anomaly,Moderate,M,Medical,1,69915.6,69915.6,35454.1,35454.1
+2013,116,Arnot Ogden Medical Center,611,3,Neonate Birthwt 1500-1999G W Major Anomaly,Major,M,Medical,2,48226.55,48226.55,20124.42,20124.42
+2013,116,Arnot Ogden Medical Center,612,3,Neonate Bwt 1500-1999G W Resp Dist Synd/Oth Maj Resp Cond,Major,M,Medical,4,61360.54,59725.48,27298.36,26840.78
+2013,116,Arnot Ogden Medical Center,613,2,Neonate Birthwt 1500-1999G W Congenital/Perinatal Infection,Moderate,M,Medical,1,24336.67,24336.67,10732.71,10732.71
+2013,116,Arnot Ogden Medical Center,614,1,Neonate Bwt 1500-1999G W Or W/O Other Significant Condition,Minor,M,Medical,11,17417.23,17595.65,8101.56,8352.16
+2013,116,Arnot Ogden Medical Center,614,2,Neonate Bwt 1500-1999G W Or W/O Other Significant Condition,Moderate,M,Medical,13,38332.17,36052.01,17227.69,15765.3
+2013,116,Arnot Ogden Medical Center,614,3,Neonate Bwt 1500-1999G W Or W/O Other Significant Condition,Major,M,Medical,4,72208.51,68984.66,31790.61,30075.09
+2013,116,Arnot Ogden Medical Center,621,2,Neonate Bwt 2000-2499G W Major Anomaly,Moderate,M,Medical,4,37556.47,36024.04,17349.45,16984.5
+2013,116,Arnot Ogden Medical Center,621,3,Neonate Bwt 2000-2499G W Major Anomaly,Major,M,Medical,1,33762.88,33762.88,16024.94,16024.94
+2013,116,Arnot Ogden Medical Center,622,1,Neonate Bwt 2000-2499G W Resp Dist Synd/Oth Maj Resp Cond,Minor,M,Medical,1,7949.68,7949.68,3604.32,3604.32
+2013,116,Arnot Ogden Medical Center,622,2,Neonate Bwt 2000-2499G W Resp Dist Synd/Oth Maj Resp Cond,Moderate,M,Medical,2,42205.64,42205.64,17111.37,17111.37
+2013,116,Arnot Ogden Medical Center,622,4,Neonate Bwt 2000-2499G W Resp Dist Synd/Oth Maj Resp Cond,Extreme,M,Medical,1,38683.2,38683.2,17012.1,17012.1
+2013,116,Arnot Ogden Medical Center,623,1,Neonate Bwt 2000-2499G W Congenital/Perinatal Infection,Minor,M,Medical,1,24482.44,24482.44,9959.15,9959.15
+2013,116,Arnot Ogden Medical Center,623,2,Neonate Bwt 2000-2499G W Congenital/Perinatal Infection,Moderate,M,Medical,1,32938.95,32938.95,14170.08,14170.08
+2013,116,Arnot Ogden Medical Center,623,3,Neonate Bwt 2000-2499G W Congenital/Perinatal Infection,Major,M,Medical,1,49393.36,49393.36,22441.87,22441.87
+2013,116,Arnot Ogden Medical Center,625,1,Neonate Bwt 2000-2499G W Other Significant Condition,Minor,M,Medical,11,25693.94,19877.17,12119.7,8539.56
+2013,116,Arnot Ogden Medical Center,625,2,Neonate Bwt 2000-2499G W Other Significant Condition,Moderate,M,Medical,3,20766.22,21870.94,7997.48,6755.41
+2013,116,Arnot Ogden Medical Center,625,3,Neonate Bwt 2000-2499G W Other Significant Condition,Major,M,Medical,2,26846.48,26846.48,10435.97,10435.97
+2013,116,Arnot Ogden Medical Center,626,1,"Neonate Bwt 2000-2499G, Normal Newborn Or Neonate W Other Problem",Minor,M,Medical,24,3752.63,2761.07,1632.55,1074.95
+2013,116,Arnot Ogden Medical Center,626,2,"Neonate Bwt 2000-2499G, Normal Newborn Or Neonate W Other Problem",Moderate,M,Medical,15,8590.32,5391.54,3866.73,2398.04
+2013,116,Arnot Ogden Medical Center,626,3,"Neonate Bwt 2000-2499G, Normal Newborn Or Neonate W Other Problem",Major,M,Medical,7,17828.3,11821.3,7976.49,5583.8
+2013,116,Arnot Ogden Medical Center,633,1,Neonate Birthwt >2499G W Major Anomaly,Minor,M,Medical,12,6402.4,3259.84,2696.98,1528.83
+2013,116,Arnot Ogden Medical Center,633,2,Neonate Birthwt >2499G W Major Anomaly,Moderate,M,Medical,8,13380.89,7870.58,5350.61,2949.82
+2013,116,Arnot Ogden Medical Center,633,3,Neonate Birthwt >2499G W Major Anomaly,Major,M,Medical,1,12137.09,12137.09,3250.96,3250.96
+2013,116,Arnot Ogden Medical Center,634,1,"Neonate, Birthwt >2499G W Resp Dist Synd/Oth Maj Resp Cond",Minor,M,Medical,4,23982.71,23199.42,9111.45,8278.74
+2013,116,Arnot Ogden Medical Center,634,2,"Neonate, Birthwt >2499G W Resp Dist Synd/Oth Maj Resp Cond",Moderate,M,Medical,5,23702.04,22867.06,8789.38,8292.2
+2013,116,Arnot Ogden Medical Center,634,3,"Neonate, Birthwt >2499G W Resp Dist Synd/Oth Maj Resp Cond",Major,M,Medical,5,28208.76,28638.56,9383.78,9997.08
+2013,116,Arnot Ogden Medical Center,634,4,"Neonate, Birthwt >2499G W Resp Dist Synd/Oth Maj Resp Cond",Extreme,M,Medical,1,111049.25,111049.25,36165.85,36165.85
+2013,116,Arnot Ogden Medical Center,636,1,Neonate Birthwt >2499G W Congenital/Perinatal Infection,Minor,M,Medical,8,14062.35,15492.93,5802.87,6743.27
+2013,116,Arnot Ogden Medical Center,639,1,Neonate Birthwt >2499G W Other Significant Condition,Minor,M,Medical,23,16320.33,16295.06,7297.95,7537.55
+2013,116,Arnot Ogden Medical Center,639,2,Neonate Birthwt >2499G W Other Significant Condition,Moderate,M,Medical,10,26083.58,19264.32,11374.69,8951.89
+2013,116,Arnot Ogden Medical Center,639,3,Neonate Birthwt >2499G W Other Significant Condition,Major,M,Medical,2,12115.47,12115.47,4489.62,4489.62
+2013,116,Arnot Ogden Medical Center,640,1,"Neonate Birthwt >2499G, Normal Newborn Or Neonate W Other Problem",Minor,M,Medical,927,2550.87,2382.04,1105.32,1022.74
+2013,116,Arnot Ogden Medical Center,640,2,"Neonate Birthwt >2499G, Normal Newborn Or Neonate W Other Problem",Moderate,M,Medical,209,3774.12,2678.82,1590.45,1088
+2013,116,Arnot Ogden Medical Center,640,3,"Neonate Birthwt >2499G, Normal Newborn Or Neonate W Other Problem",Major,M,Medical,53,8854.61,5537.97,3738.65,2267.09
+2013,116,Arnot Ogden Medical Center,650,4,Splenectomy,Extreme,P,Surgical,1,124739.72,124739.72,39601.21,39601.21
+2013,116,Arnot Ogden Medical Center,651,1,Other Procedures Of Blood & Blood-Forming Organs,Minor,P,Surgical,1,14250.34,14250.34,2791.91,2791.91
+2013,116,Arnot Ogden Medical Center,660,1,Major Hematologic/Immunologic Diag Exc Sickle Cell Crisis & Coagul,Minor,M,Medical,1,23415.82,23415.82,7422.37,7422.37
+2013,116,Arnot Ogden Medical Center,660,2,Major Hematologic/Immunologic Diag Exc Sickle Cell Crisis & Coagul,Moderate,M,Medical,9,17309.64,20228.44,6029.99,6128.1
+2013,116,Arnot Ogden Medical Center,660,3,Major Hematologic/Immunologic Diag Exc Sickle Cell Crisis & Coagul,Major,M,Medical,6,26412.89,28067.19,10275.98,9970.33
+2013,116,Arnot Ogden Medical Center,661,1,Coagulation & Platelet Disorders,Minor,M,Medical,1,5380.62,5380.62,1877.61,1877.61
+2013,116,Arnot Ogden Medical Center,661,2,Coagulation & Platelet Disorders,Moderate,M,Medical,4,19847.98,20387.39,7465.2,7566.43
+2013,116,Arnot Ogden Medical Center,661,3,Coagulation & Platelet Disorders,Major,M,Medical,1,47479.24,47479.24,16850.99,16850.99
+2013,116,Arnot Ogden Medical Center,662,1,Sickle Cell Anemia Crisis,Minor,M,Medical,1,6749.1,6749.1,4080.33,4080.33
+2013,116,Arnot Ogden Medical Center,663,1,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Minor,M,Medical,13,8120.25,7126.58,3339.16,2877.11
+2013,116,Arnot Ogden Medical Center,663,2,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Moderate,M,Medical,29,15496.18,13628.14,5433.02,4630.54
+2013,116,Arnot Ogden Medical Center,663,3,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Major,M,Medical,8,19941.12,21453.77,7374.41,7720.15
+2013,116,Arnot Ogden Medical Center,663,4,Other Anemia & Disorders Of Blood & Blood-Forming Organs,Extreme,M,Medical,1,20833.85,20833.85,6426.1,6426.1
+2013,116,Arnot Ogden Medical Center,681,3,Other O.R. Procedures For Lymphatic/Hematopoietic/Other Neoplasms,Major,P,Surgical,2,53000.32,53000.32,18153.17,18153.17
+2013,116,Arnot Ogden Medical Center,690,3,Acute Leukemia,Major,M,Medical,1,5782.53,5782.53,2146,2146
+2013,116,Arnot Ogden Medical Center,690,4,Acute Leukemia,Extreme,M,Medical,2,46279.17,46279.17,15366.55,15366.55
+2013,116,Arnot Ogden Medical Center,691,2,"Lymphoma, Myeloma & Non-Acute Leukemia",Moderate,M,Medical,1,24517.46,24517.46,7613.6,7613.6
+2013,116,Arnot Ogden Medical Center,691,3,"Lymphoma, Myeloma & Non-Acute Leukemia",Major,M,Medical,4,48875.69,52832.79,17702.79,18820.97
+2013,116,Arnot Ogden Medical Center,693,1,Chemotherapy,Minor,M,Medical,1,9944.66,9944.66,4206.45,4206.45
+2013,116,Arnot Ogden Medical Center,693,2,Chemotherapy,Moderate,M,Medical,1,15977.07,15977.07,5765.37,5765.37
+2013,116,Arnot Ogden Medical Center,694,2,Lymphatic & Other Malignancies & Neoplasms Of Uncertain Behavior,Moderate,M,Medical,1,23410.34,23410.34,9912.62,9912.62
+2013,116,Arnot Ogden Medical Center,694,3,Lymphatic & Other Malignancies & Neoplasms Of Uncertain Behavior,Major,M,Medical,2,42602.89,42602.89,17826.1,17826.1
+2013,116,Arnot Ogden Medical Center,694,4,Lymphatic & Other Malignancies & Neoplasms Of Uncertain Behavior,Extreme,M,Medical,2,38619.34,38619.34,14439.09,14439.09
+2013,116,Arnot Ogden Medical Center,710,2,Infectious & Parasitic Diseases Including Hiv W O.R. Procedure,Moderate,P,Surgical,3,29982.24,30700.88,10442.82,10312.25
+2013,116,Arnot Ogden Medical Center,710,3,Infectious & Parasitic Diseases Including Hiv W O.R. Procedure,Major,P,Surgical,12,45936.5,41305.98,16781.64,15239.39
+2013,116,Arnot Ogden Medical Center,710,4,Infectious & Parasitic Diseases Including Hiv W O.R. Procedure,Extreme,P,Surgical,10,97083.7,65727.41,32672.89,24822.5
+2013,116,Arnot Ogden Medical Center,711,1,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Minor,P,Surgical,5,20077.83,20078.87,6772.22,5693.24
+2013,116,Arnot Ogden Medical Center,711,2,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Moderate,P,Surgical,7,18568.67,17176.39,7536.1,5927.74
+2013,116,Arnot Ogden Medical Center,711,3,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Major,P,Surgical,2,21333.36,21333.36,6510.16,6510.16
+2013,116,Arnot Ogden Medical Center,711,4,"Post-Op, Post-Trauma, Other Device Infections W O.R. Procedure",Extreme,P,Surgical,1,110244.32,110244.32,32691.37,32691.37
+2013,116,Arnot Ogden Medical Center,720,1,Septicemia & Disseminated Infections,Minor,M,Medical,5,9992.4,10653.24,3575.42,3142.99
+2013,116,Arnot Ogden Medical Center,720,2,Septicemia & Disseminated Infections,Moderate,M,Medical,80,14851.48,13855.18,5671.4,5277.61
+2013,116,Arnot Ogden Medical Center,720,3,Septicemia & Disseminated Infections,Major,M,Medical,114,23884.63,22406.46,8745.92,8259.71
+2013,116,Arnot Ogden Medical Center,720,4,Septicemia & Disseminated Infections,Extreme,M,Medical,101,41811.5,32160.93,14254.02,10649.12
+2013,116,Arnot Ogden Medical Center,721,1,"Post-Operative, Post-Traumatic, Other Device Infections",Minor,M,Medical,5,8956.27,7012.11,3598.13,3539.45
+2013,116,Arnot Ogden Medical Center,721,2,"Post-Operative, Post-Traumatic, Other Device Infections",Moderate,M,Medical,24,12276.3,11052.06,4642.04,4610.35
+2013,116,Arnot Ogden Medical Center,721,3,"Post-Operative, Post-Traumatic, Other Device Infections",Major,M,Medical,21,19342.7,17039.21,7089.02,5244.51
+2013,116,Arnot Ogden Medical Center,721,4,"Post-Operative, Post-Traumatic, Other Device Infections",Extreme,M,Medical,11,49146.52,41582,18000.44,14456.19
+2013,116,Arnot Ogden Medical Center,722,1,Fever,Minor,M,Medical,8,5953.73,4547.91,2354.35,2160.88
+2013,116,Arnot Ogden Medical Center,722,2,Fever,Moderate,M,Medical,12,7429.52,7057.63,3181.91,2946.29
+2013,116,Arnot Ogden Medical Center,722,3,Fever,Major,M,Medical,1,7244.26,7244.26,3047.84,3047.84
+2013,116,Arnot Ogden Medical Center,723,1,Viral Illness,Minor,M,Medical,5,6698.74,5657.36,2240.03,1709.49
+2013,116,Arnot Ogden Medical Center,723,2,Viral Illness,Moderate,M,Medical,5,9827.25,8611.28,4478.81,4903.2
+2013,116,Arnot Ogden Medical Center,723,3,Viral Illness,Major,M,Medical,3,6443.99,8500.82,3312.44,2985.78
+2013,116,Arnot Ogden Medical Center,724,1,Other Infectious & Parasitic Diseases,Minor,M,Medical,4,5938.53,6388.3,2280.66,2004.91
+2013,116,Arnot Ogden Medical Center,724,2,Other Infectious & Parasitic Diseases,Moderate,M,Medical,4,19375.47,19077.85,7654.83,7044.23
+2013,116,Arnot Ogden Medical Center,724,3,Other Infectious & Parasitic Diseases,Major,M,Medical,4,13941.34,12380.4,4592.01,4093.44
+2013,116,Arnot Ogden Medical Center,724,4,Other Infectious & Parasitic Diseases,Extreme,M,Medical,1,37103.38,37103.38,13096.63,13096.63
+2013,116,Arnot Ogden Medical Center,750,2,Schizophrenia,Moderate,M,Medical,2,24230.73,24230.73,10544.53,10544.53
+2013,116,Arnot Ogden Medical Center,750,3,Schizophrenia,Major,M,Medical,1,19384.58,19384.58,6970.56,6970.56
+2013,116,Arnot Ogden Medical Center,751,2,Major Depressive Disorders & Other/Unspecified Psychoses,Moderate,M,Medical,2,14526.59,14526.59,4304.52,4304.52
+2013,116,Arnot Ogden Medical Center,756,1,Acute Anxiety & Delirium States,Minor,M,Medical,2,8322.59,8322.59,2319.76,2319.76
+2013,116,Arnot Ogden Medical Center,756,2,Acute Anxiety & Delirium States,Moderate,M,Medical,2,11671.12,11671.12,3590.2,3590.2
+2013,116,Arnot Ogden Medical Center,756,3,Acute Anxiety & Delirium States,Major,M,Medical,3,15114.83,18223.5,6122.33,8170.86
+2013,116,Arnot Ogden Medical Center,757,1,Organic Mental Health Disturbances,Minor,M,Medical,3,8635.73,6638.96,2820.86,1764.14
+2013,116,Arnot Ogden Medical Center,757,2,Organic Mental Health Disturbances,Moderate,M,Medical,6,16816.82,17070.27,7327.31,5838.77
+2013,116,Arnot Ogden Medical Center,757,3,Organic Mental Health Disturbances,Major,M,Medical,2,24052.01,24052.01,11586.4,11586.4
+2013,116,Arnot Ogden Medical Center,759,3,Eating Disorders,Major,M,Medical,1,12316.82,12316.82,3941.06,3941.06
+2013,116,Arnot Ogden Medical Center,770,2,"Drug & Alcohol Abuse Or Dependence, Left Against Medical Advice",Moderate,M,Medical,2,15913.51,15913.51,4433.08,4433.08
+2013,116,Arnot Ogden Medical Center,773,2,Opioid Abuse & Dependence,Moderate,M,Medical,1,13180.23,13180.23,3193.52,3193.52
+2013,116,Arnot Ogden Medical Center,773,4,Opioid Abuse & Dependence,Extreme,M,Medical,2,51185.86,51185.86,17986.55,17986.55
+2013,116,Arnot Ogden Medical Center,775,1,Alcohol Abuse & Dependence,Minor,M,Medical,1,5428.86,5428.86,1537.87,1537.87
+2013,116,Arnot Ogden Medical Center,775,2,Alcohol Abuse & Dependence,Moderate,M,Medical,14,15259.69,10449.32,4670.65,2631.06
+2013,116,Arnot Ogden Medical Center,775,3,Alcohol Abuse & Dependence,Major,M,Medical,2,21537.86,21537.86,5439.06,5439.06
+2013,116,Arnot Ogden Medical Center,776,2,Other Drug Abuse & Dependence,Moderate,M,Medical,5,10754.74,10551.62,4539.89,3920.22
+2013,116,Arnot Ogden Medical Center,776,3,Other Drug Abuse & Dependence,Major,M,Medical,1,5770.38,5770.38,2415.83,2415.83
+2013,116,Arnot Ogden Medical Center,791,1,O.R. Procedure For Other Complications Of Treatment,Minor,P,Surgical,3,16838.59,19588.37,5219.84,6855.3
+2013,116,Arnot Ogden Medical Center,791,2,O.R. Procedure For Other Complications Of Treatment,Moderate,P,Surgical,3,22789.12,26612.11,7436.54,7474.69
+2013,116,Arnot Ogden Medical Center,791,4,O.R. Procedure For Other Complications Of Treatment,Extreme,P,Surgical,1,256714.64,256714.64,98728.28,98728.28
+2013,116,Arnot Ogden Medical Center,812,1,Poisoning Of Medicinal Agents,Minor,M,Medical,7,5445.27,5542.47,1726.87,1667.04
+2013,116,Arnot Ogden Medical Center,812,2,Poisoning Of Medicinal Agents,Moderate,M,Medical,24,8153.71,6890.37,2529.76,1910.58
+2013,116,Arnot Ogden Medical Center,812,3,Poisoning Of Medicinal Agents,Major,M,Medical,11,20580.96,20200.55,6218.27,5655.25
+2013,116,Arnot Ogden Medical Center,812,4,Poisoning Of Medicinal Agents,Extreme,M,Medical,8,30804.42,24146.17,9861.4,7877.27
+2013,116,Arnot Ogden Medical Center,813,1,Other Complications Of Treatment,Minor,M,Medical,5,11424.58,14026.03,4346.79,5921.31
+2013,116,Arnot Ogden Medical Center,813,2,Other Complications Of Treatment,Moderate,M,Medical,10,11006.65,11151.03,4045.95,3551.92
+2013,116,Arnot Ogden Medical Center,813,3,Other Complications Of Treatment,Major,M,Medical,2,15351.2,15351.2,4627.15,4627.15
+2013,116,Arnot Ogden Medical Center,813,4,Other Complications Of Treatment,Extreme,M,Medical,1,49932.21,49932.21,21822.84,21822.84
+2013,116,Arnot Ogden Medical Center,815,3,"Other Injury, Poisoning & Toxic Effect Diagnoses",Major,M,Medical,2,21557.46,21557.46,5890.04,5890.04
+2013,116,Arnot Ogden Medical Center,816,1,Toxic Effects Of Non-Medicinal Substances,Minor,M,Medical,2,6843.06,6843.06,2158.09,2158.09
+2013,116,Arnot Ogden Medical Center,816,2,Toxic Effects Of Non-Medicinal Substances,Moderate,M,Medical,1,11482.74,11482.74,3787.29,3787.29
+2013,116,Arnot Ogden Medical Center,816,3,Toxic Effects Of Non-Medicinal Substances,Major,M,Medical,5,18758.54,16102.87,5685.06,6259.34
+2013,116,Arnot Ogden Medical Center,816,4,Toxic Effects Of Non-Medicinal Substances,Extreme,M,Medical,2,12414.13,12414.13,3459.11,3459.11
+2013,116,Arnot Ogden Medical Center,850,1,"Procedure W Diag Of Rehab, Aftercare Or Oth Contact W Health Service",Minor,P,Surgical,2,16248.61,16248.61,6785.04,6785.04
+2013,116,Arnot Ogden Medical Center,850,2,"Procedure W Diag Of Rehab, Aftercare Or Oth Contact W Health Service",Moderate,P,Surgical,2,17765.89,17765.89,6766.73,6766.73
+2013,116,Arnot Ogden Medical Center,850,3,"Procedure W Diag Of Rehab, Aftercare Or Oth Contact W Health Service",Major,P,Surgical,1,74612.86,74612.86,26189.17,26189.17
+2013,116,Arnot Ogden Medical Center,860,1,Rehabilitation,Minor,M,Medical,3,8243.01,4596.61,4133.93,2996.93
+2013,116,Arnot Ogden Medical Center,860,2,Rehabilitation,Moderate,M,Medical,5,25849.25,16424.72,9287.73,7895.64
+2013,116,Arnot Ogden Medical Center,860,3,Rehabilitation,Major,M,Medical,1,4754.91,4754.91,2030.56,2030.56
+2013,116,Arnot Ogden Medical Center,861,1,"Signs, Symptoms & Other Factors Influencing Health Status",Minor,M,Medical,7,11213.15,7987.72,4009.27,2252.61
+2013,116,Arnot Ogden Medical Center,861,2,"Signs, Symptoms & Other Factors Influencing Health Status",Moderate,M,Medical,25,10514.19,8836.92,3986.64,3630.32
+2013,116,Arnot Ogden Medical Center,861,3,"Signs, Symptoms & Other Factors Influencing Health Status",Major,M,Medical,12,14299.9,13582.39,5343.58,4415.26
+2013,116,Arnot Ogden Medical Center,861,4,"Signs, Symptoms & Other Factors Influencing Health Status",Extreme,M,Medical,1,41045.1,41045.1,12961.63,12961.63
+2013,116,Arnot Ogden Medical Center,863,2,Neonatal Aftercare,Moderate,M,Medical,3,18762.25,22490.33,8915.8,9958.75
+2013,116,Arnot Ogden Medical Center,863,3,Neonatal Aftercare,Major,M,Medical,1,4415.9,4415.9,2313.93,2313.93
+2013,116,Arnot Ogden Medical Center,863,4,Neonatal Aftercare,Extreme,M,Medical,1,139722.63,139722.63,55017.43,55017.43
+2013,116,Arnot Ogden Medical Center,890,3,HIV W Multiple Major HIV Related Conditions,Major,M,Medical,1,28588.2,28588.2,10518.63,10518.63
+2013,116,Arnot Ogden Medical Center,890,4,HIV W Multiple Major HIV Related Conditions,Extreme,M,Medical,2,31502.87,31502.87,10433.17,10433.17
+2013,116,Arnot Ogden Medical Center,892,2,HIV W Major HIV Related Condition,Moderate,M,Medical,1,11797.01,11797.01,5542.26,5542.26
+2013,116,Arnot Ogden Medical Center,892,3,HIV W Major HIV Related Condition,Major,M,Medical,2,22678.83,22678.83,9185.79,9185.79
+2013,116,Arnot Ogden Medical Center,893,2,HIV W Multiple Significant HIV Related Conditions,Moderate,M,Medical,1,20811.8,20811.8,4943.09,4943.09
+2013,116,Arnot Ogden Medical Center,894,2,HIV W One Signif HIV Cond Or W/O Signif Related Cond,Moderate,M,Medical,1,8772.59,8772.59,5338.79,5338.79
+2013,116,Arnot Ogden Medical Center,911,4,Extensive Abdominal/Thoracic Procedures For Mult Significant Trauma,Extreme,P,Surgical,1,150628.99,150628.99,46449.76,46449.76
+2013,116,Arnot Ogden Medical Center,912,4,Musculoskeletal & Other Procedures For Multiple Significant Trauma,Extreme,P,Surgical,2,210549.49,210549.49,75256.54,75256.54
+2013,116,Arnot Ogden Medical Center,930,2,Multiple Significant Trauma W/O O.R. Procedure,Moderate,M,Medical,5,28154.85,26240.67,7545.95,7372.1
+2013,116,Arnot Ogden Medical Center,930,3,Multiple Significant Trauma W/O O.R. Procedure,Major,M,Medical,2,35763.18,35763.18,11480.99,11480.99
+2013,116,Arnot Ogden Medical Center,930,4,Multiple Significant Trauma W/O O.R. Procedure,Extreme,M,Medical,1,44903.72,44903.72,17013.73,17013.73
+2013,116,Arnot Ogden Medical Center,950,2,Extensive Procedure Unrelated To Principal Diagnosis,Moderate,P,Surgical,1,16288.68,16288.68,6858.31,6858.31
+2013,116,Arnot Ogden Medical Center,950,3,Extensive Procedure Unrelated To Principal Diagnosis,Major,P,Surgical,5,99814.83,112690.98,38208.11,40811.92
+2013,116,Arnot Ogden Medical Center,950,4,Extensive Procedure Unrelated To Principal Diagnosis,Extreme,P,Surgical,2,103712.27,103712.27,31778.56,31778.56
+2013,116,Arnot Ogden Medical Center,951,1,Moderately Extensive Procedure Unrelated To Principal Diagnosis,Minor,P,Surgical,2,19031.55,19031.55,5619.43,5619.43
+2013,116,Arnot Ogden Medical Center,951,2,Moderately Extensive Procedure Unrelated To Principal Diagnosis,Moderate,P,Surgical,8,33903.53,25562.48,10792.81,7648.92
+2013,116,Arnot Ogden Medical Center,951,3,Moderately Extensive Procedure Unrelated To Principal Diagnosis,Major,P,Surgical,9,34924.02,28490.8,12207.14,11752.71
+2013,116,Arnot Ogden Medical Center,951,4,Moderately Extensive Procedure Unrelated To Principal Diagnosis,Extreme,P,Surgical,4,164160.4,161502.76,63792.05,64908.56
+2013,116,Arnot Ogden Medical Center,952,2,Nonextensive Procedure Unrelated To Principal Diagnosis,Moderate,P,Surgical,7,16797,18289.28,5457.57,5302.66
+2013,116,Arnot Ogden Medical Center,952,3,Nonextensive Procedure Unrelated To Principal Diagnosis,Major,P,Surgical,9,40356.32,32254.03,15103.97,13749.51
+2013,85,Auburn Community Hospital,41,2,Nervous System Malignancy,Moderate,M,Medical,1,26916.19,26916.19,7601.17,7601.17
+2013,85,Auburn Community Hospital,41,3,Nervous System Malignancy,Major,M,Medical,1,9827.25,9827.25,3090.87,3090.87
+2013,85,Auburn Community Hospital,42,1,Degenerative Nervous System Disorders Exc Mult Sclerosis,Minor,M,Medical,2,18599.88,18599.88,6484.53,6484.53
+2013,85,Auburn Community Hospital,42,2,Degenerative Nervous System Disorders Exc Mult Sclerosis,Moderate,M,Medical,6,13117.45,9032.13,4510.8,3096.79
+2013,85,Auburn Community Hospital,42,3,Degenerative Nervous System Disorders Exc Mult Sclerosis,Major,M,Medical,3,21954.17,22421.75,7700.48,7986.04
+2013,85,Auburn Community Hospital,43,1,Multiple Sclerosis & Other Demyelinating Diseases,Minor,M,Medical,1,12799.99,12799.99,4618.71,4618.71
+2013,85,Auburn Community Hospital,43,3,Multiple Sclerosis & Other Demyelinating Diseases,Major,M,Medical,1,13692.81,13692.81,5247.74,5247.74
+2013,85,Auburn Community Hospital,44,1,Intracranial Hemorrhage,Minor,M,Medical,1,45216,45216,15205.56,15205.56
+2013,85,Auburn Community Hospital,44,2,Intracranial Hemorrhage,Moderate,M,Medical,1,23572,23572,7604.89,7604.89
+2013,85,Auburn Community Hospital,44,3,Intracranial Hemorrhage,Major,M,Medical,5,17579.04,16163.25,5304.83,4006.27
+2013,85,Auburn Community Hospital,45,1,CVA & Precerebral Occlusion W Infarct,Minor,M,Medical,11,13918.06,12001.75,4042.29,3117.42
+2013,85,Auburn Community Hospital,45,2,CVA & Precerebral Occlusion W Infarct,Moderate,M,Medical,25,15402.97,14136.28,4516.07,4280.05
+2013,85,Auburn Community Hospital,45,3,CVA & Precerebral Occlusion W Infarct,Major,M,Medical,12,28316.72,21649.69,9151.62,6726.22
+2013,85,Auburn Community Hospital,45,4,CVA & Precerebral Occlusion W Infarct,Extreme,M,Medical,2,38172.4,38172.4,12978.46,12978.46
+2013,85,Auburn Community Hospital,46,2,Nonspecific CVA & Precerebral Occlusion W/O Infarct,Moderate,M,Medical,2,10484.02,10484.02,2916.45,2916.45
+2013,85,Auburn Community Hospital,47,1,Transient Ischemia,Minor,M,Medical,7,8097.79,7176.75,2140.37,1765.68
+2013,85,Auburn Community Hospital,47,2,Transient Ischemia,Moderate,M,Medical,30,11788.08,11078.5,3299.45,2646.46
+2013,85,Auburn Community Hospital,47,3,Transient Ischemia,Major,M,Medical,6,11172.02,9796.57,3033.37,2485.37
+2013,85,Auburn Community Hospital,47,4,Transient Ischemia,Extreme,M,Medical,1,24332.19,24332.19,8126.3,8126.3
+2013,85,Auburn Community Hospital,48,1,"Peripheral, Cranial & Autonomic Nerve Disorders",Minor,M,Medical,4,8569.07,7003.44,2603.24,2217.11
+2013,85,Auburn Community Hospital,48,2,"Peripheral, Cranial & Autonomic Nerve Disorders",Moderate,M,Medical,5,9372.65,10466.7,2802.44,2913.66
+2013,85,Auburn Community Hospital,48,3,"Peripheral, Cranial & Autonomic Nerve Disorders",Major,M,Medical,2,24237.94,24237.94,8054.06,8054.06
+2013,85,Auburn Community Hospital,49,3,Bacterial & Tuberculous Infections Of Nervous System,Major,M,Medical,1,69841.1,69841.1,29949.42,29949.42
+2013,85,Auburn Community Hospital,50,2,Non-Bacterial Infections Of Nervous System Exc Viral Meningitis,Moderate,M,Medical,1,11216.94,11216.94,3173.85,3173.85
+2013,85,Auburn Community Hospital,51,2,Viral Meningitis,Moderate,M,Medical,1,9773.21,9773.21,3183.56,3183.56
+2013,85,Auburn Community Hospital,52,2,Nontraumatic Stupor & Coma,Moderate,M,Medical,5,11932.19,12352.84,3402.99,3303.52
+2013,85,Auburn Community Hospital,52,3,Nontraumatic Stupor & Coma,Major,M,Medical,12,20990.86,15861.63,6332.29,4928.28
+2013,85,Auburn Community Hospital,52,4,Nontraumatic Stupor & Coma,Extreme,M,Medical,1,49275.88,49275.88,15611.95,15611.95
+2013,85,Auburn Community Hospital,53,1,Seizure,Minor,M,Medical,6,7342.92,5407.13,2030.52,1462.1
+2013,85,Auburn Community Hospital,53,2,Seizure,Moderate,M,Medical,17,9257.76,8487.48,2577.73,2333.87
+2013,85,Auburn Community Hospital,53,3,Seizure,Major,M,Medical,9,16214.98,14204.19,5218.16,4837.46
+2013,85,Auburn Community Hospital,54,1,Migraine & Other Headaches,Minor,M,Medical,4,8656.95,8746.55,2422.71,2316.9
+2013,85,Auburn Community Hospital,54,2,Migraine & Other Headaches,Moderate,M,Medical,2,11953.19,11953.19,2788.5,2788.5
+2013,85,Auburn Community Hospital,54,3,Migraine & Other Headaches,Major,M,Medical,1,26950.46,26950.46,7269.86,7269.86
+2013,85,Auburn Community Hospital,55,1,Head Trauma W Coma >1 Hr Or Hemorrhage,Minor,M,Medical,2,10232.38,10232.38,2818.48,2818.48
+2013,85,Auburn Community Hospital,57,1,"Concussion, Closed Skull Fx Nos,Uncomplicated Intracranial Injury, Coma < 1 Hr Or No Coma",Minor,M,Medical,1,10787,10787,2980.92,2980.92
+2013,85,Auburn Community Hospital,58,1,Other Disorders Of Nervous System,Minor,M,Medical,1,7704.5,7704.5,1979.93,1979.93
+2013,85,Auburn Community Hospital,58,2,Other Disorders Of Nervous System,Moderate,M,Medical,1,10820.25,10820.25,3167.63,3167.63
+2013,85,Auburn Community Hospital,58,3,Other Disorders Of Nervous System,Major,M,Medical,1,13335.75,13335.75,4131.1,4131.1
+2013,85,Auburn Community Hospital,80,1,Acute Major Eye Infections,Minor,M,Medical,1,10366.21,10366.21,3184.73,3184.73
+2013,85,Auburn Community Hospital,80,2,Acute Major Eye Infections,Moderate,M,Medical,1,16966.69,16966.69,6345.95,6345.95
+2013,85,Auburn Community Hospital,82,2,Eye Disorders Except Major Infections,Moderate,M,Medical,3,8699.41,8620.22,2107.97,1429.84
+2013,85,Auburn Community Hospital,82,3,Eye Disorders Except Major Infections,Major,M,Medical,1,3978.93,3978.93,1290.74,1290.74
+2013,85,Auburn Community Hospital,110,3,"Ear, Nose, Mouth, Throat, Cranial/Facial Malignancies",Major,M,Medical,1,9683,9683,3429.81,3429.81
+2013,85,Auburn Community Hospital,111,1,Vertigo & Other Labyrinth Disorders,Minor,M,Medical,4,10863.13,10088.13,3294.71,3017.14
+2013,85,Auburn Community Hospital,111,2,Vertigo & Other Labyrinth Disorders,Moderate,M,Medical,7,13206.88,11108.85,3916.25,2926.98
+2013,85,Auburn Community Hospital,113,1,Infections Of Upper Respiratory Tract,Minor,M,Medical,2,3816.65,3816.65,1486.3,1486.3
+2013,85,Auburn Community Hospital,113,2,Infections Of Upper Respiratory Tract,Moderate,M,Medical,4,11390.4,10553.88,3142.74,2978.1
+2013,85,Auburn Community Hospital,113,3,Infections Of Upper Respiratory Tract,Major,M,Medical,4,30484.71,32327.3,11122.18,12556.16
+2013,85,Auburn Community Hospital,115,1,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Minor,M,Medical,1,7960.41,7960.41,2281.15,2281.15
+2013,85,Auburn Community Hospital,115,2,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Moderate,M,Medical,2,13700.35,13700.35,3882.59,3882.59
+2013,85,Auburn Community Hospital,115,3,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Major,M,Medical,2,22048.19,22048.19,7210.99,7210.99
+2013,85,Auburn Community Hospital,130,2,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Moderate,M,Medical,2,35286.93,35286.93,13438.77,13438.77
+2013,85,Auburn Community Hospital,130,3,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Major,M,Medical,4,52428.74,43457.83,20401.43,16644.76
+2013,85,Auburn Community Hospital,130,4,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Extreme,M,Medical,4,93062.4,71327.94,35640.53,26672.77
+2013,85,Auburn Community Hospital,133,2,Pulmonary Edema & Respiratory Failure,Moderate,M,Medical,15,18669.81,15403.84,6957.22,6427.62
+2013,85,Auburn Community Hospital,133,3,Pulmonary Edema & Respiratory Failure,Major,M,Medical,18,18338.79,14337.33,6733.61,5306.33
+2013,85,Auburn Community Hospital,133,4,Pulmonary Edema & Respiratory Failure,Extreme,M,Medical,11,21768.69,21232.32,8287.39,7718.97
+2013,85,Auburn Community Hospital,134,1,Pulmonary Embolism,Minor,M,Medical,5,8768.31,8048.12,2373.73,2075.38
+2013,85,Auburn Community Hospital,134,2,Pulmonary Embolism,Moderate,M,Medical,6,12951.43,11281.04,3679.21,3231.97
+2013,85,Auburn Community Hospital,134,3,Pulmonary Embolism,Major,M,Medical,4,18370.64,17364.97,5624.53,5249.9
+2013,85,Auburn Community Hospital,135,1,Major Chest & Respiratory Trauma,Minor,M,Medical,1,22464.92,22464.92,6571.36,6571.36
+2013,85,Auburn Community Hospital,135,2,Major Chest & Respiratory Trauma,Moderate,M,Medical,3,17126.27,12379.5,5213.29,3949.25
+2013,85,Auburn Community Hospital,135,4,Major Chest & Respiratory Trauma,Extreme,M,Medical,1,15702.5,15702.5,3372.18,3372.18
+2013,85,Auburn Community Hospital,136,1,Respiratory Malignancy,Minor,M,Medical,1,29997.02,29997.02,9899.81,9899.81
+2013,85,Auburn Community Hospital,136,2,Respiratory Malignancy,Moderate,M,Medical,1,17856.63,17856.63,5509.64,5509.64
+2013,85,Auburn Community Hospital,136,3,Respiratory Malignancy,Major,M,Medical,6,24678,22638.43,8247.95,7623.11
+2013,85,Auburn Community Hospital,137,1,Major Respiratory Infections & Inflammations,Minor,M,Medical,3,13720.8,9347.25,4947.6,2925.46
+2013,85,Auburn Community Hospital,137,2,Major Respiratory Infections & Inflammations,Moderate,M,Medical,26,14314.39,11194.91,5081.46,3598.78
+2013,85,Auburn Community Hospital,137,3,Major Respiratory Infections & Inflammations,Major,M,Medical,33,20599.76,15375.25,7420.27,5139.25
+2013,85,Auburn Community Hospital,137,4,Major Respiratory Infections & Inflammations,Extreme,M,Medical,6,21848.78,15069.91,7820.74,5550.44
+2013,85,Auburn Community Hospital,138,1,Bronchiolitis & Rsv Pneumonia,Minor,M,Medical,3,3875.83,4296.5,1481.49,1691.85
+2013,85,Auburn Community Hospital,138,2,Bronchiolitis & Rsv Pneumonia,Moderate,M,Medical,2,3336.5,3336.5,1311.81,1311.81
+2013,85,Auburn Community Hospital,139,1,Other Pneumonia,Minor,M,Medical,19,7086.24,5440.16,2610.73,1823.52
+2013,85,Auburn Community Hospital,139,2,Other Pneumonia,Moderate,M,Medical,109,10913.02,10119,3776.36,3417.65
+2013,85,Auburn Community Hospital,139,3,Other Pneumonia,Major,M,Medical,81,18484.46,14317.5,6338.63,5107.14
+2013,85,Auburn Community Hospital,139,4,Other Pneumonia,Extreme,M,Medical,20,30164.78,29240.32,10233.02,9465.47
+2013,85,Auburn Community Hospital,140,1,Chronic Obstructive Pulmonary Disease,Minor,M,Medical,35,9743.64,8547.15,3723.36,3167.8
+2013,85,Auburn Community Hospital,140,2,Chronic Obstructive Pulmonary Disease,Moderate,M,Medical,100,11517.03,10230.47,4175.43,3715.62
+2013,85,Auburn Community Hospital,140,3,Chronic Obstructive Pulmonary Disease,Major,M,Medical,99,13886.51,10247.25,5072.98,3808.53
+2013,85,Auburn Community Hospital,140,4,Chronic Obstructive Pulmonary Disease,Extreme,M,Medical,10,35786.81,36740.29,13227.45,13476.32
+2013,85,Auburn Community Hospital,141,1,Asthma,Minor,M,Medical,9,6491.31,5987.25,2506.74,2448.25
+2013,85,Auburn Community Hospital,141,2,Asthma,Moderate,M,Medical,23,7789.87,6470.75,3012.35,2567.74
+2013,85,Auburn Community Hospital,141,3,Asthma,Major,M,Medical,3,5632.27,5672.53,2217.99,2137.25
+2013,85,Auburn Community Hospital,142,2,Interstitial & Alveolar Lung Diseases,Moderate,M,Medical,1,10373.52,10373.52,3693.56,3693.56
+2013,85,Auburn Community Hospital,142,3,Interstitial & Alveolar Lung Diseases,Major,M,Medical,1,60747.4,60747.4,23149.74,23149.74
+2013,85,Auburn Community Hospital,143,1,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Minor,M,Medical,4,8607.79,8730.68,3127.89,2899.82
+2013,85,Auburn Community Hospital,143,2,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Moderate,M,Medical,13,11974.32,9709.83,3703.82,2796.55
+2013,85,Auburn Community Hospital,143,3,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Major,M,Medical,10,22569.72,20640.89,7545.6,7325.66
+2013,85,Auburn Community Hospital,144,1,"Respiratory Signs, Symptoms & Minor Diagnoses",Minor,M,Medical,3,16346.61,14881.44,5573.41,4604.61
+2013,85,Auburn Community Hospital,144,2,"Respiratory Signs, Symptoms & Minor Diagnoses",Moderate,M,Medical,11,10050.47,9551.25,3254.05,2777.04
+2013,85,Auburn Community Hospital,144,3,"Respiratory Signs, Symptoms & Minor Diagnoses",Major,M,Medical,8,10790.76,11539.08,3500.33,3768.77
+2013,85,Auburn Community Hospital,171,1,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Minor,P,Surgical,3,40804.28,36176.42,16140.33,13942.62
+2013,85,Auburn Community Hospital,171,2,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Moderate,P,Surgical,17,41753.87,43249.94,16884.11,18656.07
+2013,85,Auburn Community Hospital,171,3,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Major,P,Surgical,8,49720.34,51466.6,20284.5,20740.32
+2013,85,Auburn Community Hospital,171,4,"Perm Cardiac Pacemaker Implant W/O Ami, Heart Failure Or Shock",Extreme,P,Surgical,2,60676.09,60676.09,23586.78,23586.78
+2013,85,Auburn Community Hospital,176,1,Cardiac Pacemaker & Defibrillator Device Replacement,Minor,P,Surgical,2,30685.88,30685.88,13337.15,13337.15
+2013,85,Auburn Community Hospital,190,1,Acute Myocardial Infarction,Minor,M,Medical,4,7748.61,6684.84,2464.08,2067.09
+2013,85,Auburn Community Hospital,190,2,Acute Myocardial Infarction,Moderate,M,Medical,19,15042.04,13592.43,4703.69,4203.98
+2013,85,Auburn Community Hospital,190,3,Acute Myocardial Infarction,Major,M,Medical,26,17080.17,13803.75,5697.36,4746.18
+2013,85,Auburn Community Hospital,190,4,Acute Myocardial Infarction,Extreme,M,Medical,2,26836.47,26836.47,9169.31,9169.31
+2013,85,Auburn Community Hospital,194,1,Heart Failure,Minor,M,Medical,15,8900.86,7451.75,2877.69,2568.67
+2013,85,Auburn Community Hospital,194,2,Heart Failure,Moderate,M,Medical,107,13738.75,12950.73,4538.58,4234.36
+2013,85,Auburn Community Hospital,194,3,Heart Failure,Major,M,Medical,95,18478.51,15740.63,6339.97,5478.17
+2013,85,Auburn Community Hospital,194,4,Heart Failure,Extreme,M,Medical,13,21665.45,21398.86,7142.45,6678.27
+2013,85,Auburn Community Hospital,196,3,Cardiac Arrest,Major,M,Medical,1,10509.25,10509.25,3491.74,3491.74
+2013,85,Auburn Community Hospital,196,4,Cardiac Arrest,Extreme,M,Medical,1,55820.83,55820.83,20091.27,20091.27
+2013,85,Auburn Community Hospital,197,1,Peripheral & Other Vascular Disorders,Minor,M,Medical,5,7282.95,6124.69,2615.78,2061.28
+2013,85,Auburn Community Hospital,197,2,Peripheral & Other Vascular Disorders,Moderate,M,Medical,5,8944.22,9281.31,2908.47,2624.45
+2013,85,Auburn Community Hospital,197,3,Peripheral & Other Vascular Disorders,Major,M,Medical,8,14337.73,10443.88,4999.57,3456.03
+2013,85,Auburn Community Hospital,198,1,Angina Pectoris & Coronary Atherosclerosis,Minor,M,Medical,10,5485.61,5479.76,1693.27,1584.93
+2013,85,Auburn Community Hospital,198,2,Angina Pectoris & Coronary Atherosclerosis,Moderate,M,Medical,20,10492.81,9704.85,3270.38,2443.12
+2013,85,Auburn Community Hospital,198,3,Angina Pectoris & Coronary Atherosclerosis,Major,M,Medical,8,17010.87,14870.16,5639.72,4358.6
+2013,85,Auburn Community Hospital,198,4,Angina Pectoris & Coronary Atherosclerosis,Extreme,M,Medical,1,36473.46,36473.46,12981,12981
+2013,85,Auburn Community Hospital,199,1,Hypertension,Minor,M,Medical,5,6550.12,6647,2059.41,2036.43
+2013,85,Auburn Community Hospital,199,2,Hypertension,Moderate,M,Medical,5,10866.17,9323.75,3212.83,3130.92
+2013,85,Auburn Community Hospital,199,3,Hypertension,Major,M,Medical,4,15863.61,16524.97,4389.71,4674.93
+2013,85,Auburn Community Hospital,199,4,Hypertension,Extreme,M,Medical,1,16135.07,16135.07,4504.91,4504.91
+2013,85,Auburn Community Hospital,200,2,Cardiac Structural & Valvular Disorders,Moderate,M,Medical,3,8093.5,7042.5,2283.05,2189.8
+2013,85,Auburn Community Hospital,200,3,Cardiac Structural & Valvular Disorders,Major,M,Medical,1,22883.38,22883.38,7415.15,7415.15
+2013,85,Auburn Community Hospital,201,1,Cardiac Arrhythmia & Conduction Disorders,Minor,M,Medical,17,7378.24,6735.53,2118.7,1700.1
+2013,85,Auburn Community Hospital,201,2,Cardiac Arrhythmia & Conduction Disorders,Moderate,M,Medical,57,9734.43,8366.75,3041.65,2524.18
+2013,85,Auburn Community Hospital,201,3,Cardiac Arrhythmia & Conduction Disorders,Major,M,Medical,49,17013.44,14229.64,5630.73,4791.42
+2013,85,Auburn Community Hospital,201,4,Cardiac Arrhythmia & Conduction Disorders,Extreme,M,Medical,2,11169.25,11169.25,3822.65,3822.65
+2013,85,Auburn Community Hospital,203,1,Chest Pain,Minor,M,Medical,4,5337.19,5688.88,1401.91,1459
+2013,85,Auburn Community Hospital,203,2,Chest Pain,Moderate,M,Medical,6,11362.67,9636.04,3775.65,3254.42
+2013,85,Auburn Community Hospital,203,3,Chest Pain,Major,M,Medical,2,14469.18,14469.18,5100.98,5100.98
+2013,85,Auburn Community Hospital,204,1,Syncope & Collapse,Minor,M,Medical,6,10625.88,7283.52,3016.22,1783.01
+2013,85,Auburn Community Hospital,204,2,Syncope & Collapse,Moderate,M,Medical,35,10980.7,9025.31,3076.51,2398.71
+2013,85,Auburn Community Hospital,204,3,Syncope & Collapse,Major,M,Medical,4,21124.62,18624.89,6250.11,5144.99
+2013,85,Auburn Community Hospital,206,2,"Malfunction,Reaction,Complication Of Cardiac/Vasc Device Or Procedure",Moderate,M,Medical,3,10725.97,11172.5,3431.69,3705.65
+2013,85,Auburn Community Hospital,206,3,"Malfunction,Reaction,Complication Of Cardiac/Vasc Device Or Procedure",Major,M,Medical,1,7678.8,7678.8,2204.5,2204.5
+2013,85,Auburn Community Hospital,207,1,Other Circulatory System Diagnoses,Minor,M,Medical,7,9205.8,7589.25,2880.34,2510.94
+2013,85,Auburn Community Hospital,207,2,Other Circulatory System Diagnoses,Moderate,M,Medical,4,10336.97,12096.58,3319.81,3599.32
+2013,85,Auburn Community Hospital,207,3,Other Circulatory System Diagnoses,Major,M,Medical,7,19929.41,16831.27,6185.03,4172.8
+2013,85,Auburn Community Hospital,220,2,"Major Stomach, Esophageal & Duodenal Procedures",Moderate,P,Surgical,1,17829,17829,5884.94,5884.94
+2013,85,Auburn Community Hospital,221,1,Major Small & Large Bowel Procedures,Minor,P,Surgical,6,22240.46,23220,7803.4,8036.89
+2013,85,Auburn Community Hospital,221,2,Major Small & Large Bowel Procedures,Moderate,P,Surgical,16,30002.09,29282.53,10533.36,10449.54
+2013,85,Auburn Community Hospital,221,3,Major Small & Large Bowel Procedures,Major,P,Surgical,14,49904.96,49320.69,17196.04,17318.79
+2013,85,Auburn Community Hospital,221,4,Major Small & Large Bowel Procedures,Extreme,P,Surgical,2,71160.16,71160.16,24613.45,24613.45
+2013,85,Auburn Community Hospital,223,1,Other Small & Large Bowel Procedures,Minor,P,Surgical,7,16773.37,16477,5356.11,4988.89
+2013,85,Auburn Community Hospital,223,2,Other Small & Large Bowel Procedures,Moderate,P,Surgical,5,32081.69,32512.84,11489.76,11178.72
+2013,85,Auburn Community Hospital,223,3,Other Small & Large Bowel Procedures,Major,P,Surgical,1,28866.1,28866.1,9957.61,9957.61
+2013,85,Auburn Community Hospital,224,1,Peritoneal Adhesiolysis,Minor,P,Surgical,3,29326.93,25993.67,9108.18,7680.33
+2013,85,Auburn Community Hospital,224,2,Peritoneal Adhesiolysis,Moderate,P,Surgical,4,26182.07,26808.97,8195.15,8574.79
+2013,85,Auburn Community Hospital,224,3,Peritoneal Adhesiolysis,Major,P,Surgical,2,38838.34,38838.34,12716.61,12716.61
+2013,85,Auburn Community Hospital,225,1,Appendectomy,Minor,P,Surgical,22,12199.45,11844.96,4090.93,3940.48
+2013,85,Auburn Community Hospital,225,2,Appendectomy,Moderate,P,Surgical,7,22812.42,21419.59,7921.66,7315.28
+2013,85,Auburn Community Hospital,225,3,Appendectomy,Major,P,Surgical,2,27605.66,27605.66,9522.53,9522.53
+2013,85,Auburn Community Hospital,226,1,Anal Procedures,Minor,P,Surgical,2,20605.82,20605.82,7169,7169
+2013,85,Auburn Community Hospital,226,2,Anal Procedures,Moderate,P,Surgical,2,14297.15,14297.15,5090.82,5090.82
+2013,85,Auburn Community Hospital,226,4,Anal Procedures,Extreme,P,Surgical,1,22908.82,22908.82,7573.45,7573.45
+2013,85,Auburn Community Hospital,227,1,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Minor,P,Surgical,3,18809.1,14099.64,6668.02,4845.55
+2013,85,Auburn Community Hospital,227,2,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Moderate,P,Surgical,9,23145.39,21273.39,8067.78,7663.91
+2013,85,Auburn Community Hospital,227,3,"Hernia Procedures Except Inguinal, Femoral & Umbilical",Major,P,Surgical,1,32187.76,32187.76,10222.65,10222.65
+2013,85,Auburn Community Hospital,228,1,"Inguinal, Femoral & Umbilical Hernia Procedures",Minor,P,Surgical,4,9628.19,10422.25,2836.03,2900.11
+2013,85,Auburn Community Hospital,228,2,"Inguinal, Femoral & Umbilical Hernia Procedures",Moderate,P,Surgical,2,19466.09,19466.09,6580.37,6580.37
+2013,85,Auburn Community Hospital,228,3,"Inguinal, Femoral & Umbilical Hernia Procedures",Major,P,Surgical,2,25295.4,25295.4,8117.92,8117.92
+2013,85,Auburn Community Hospital,240,1,Digestive Malignancy,Minor,M,Medical,1,34823.63,34823.63,11758.74,11758.74
+2013,85,Auburn Community Hospital,240,2,Digestive Malignancy,Moderate,M,Medical,1,14547.5,14547.5,4224.7,4224.7
+2013,85,Auburn Community Hospital,240,3,Digestive Malignancy,Major,M,Medical,4,28381.5,15910.9,10500.19,6719.21
+2013,85,Auburn Community Hospital,241,1,Peptic Ulcer & Gastritis,Minor,M,Medical,12,13269.02,8488.53,4531.11,2711.5
+2013,85,Auburn Community Hospital,241,2,Peptic Ulcer & Gastritis,Moderate,M,Medical,22,13339.09,11056.09,4188.2,3233.65
+2013,85,Auburn Community Hospital,241,3,Peptic Ulcer & Gastritis,Major,M,Medical,15,15433.31,15727.63,4862.78,4981.32
+2013,85,Auburn Community Hospital,242,1,Major Esophageal Disorders,Minor,M,Medical,1,6669.25,6669.25,2215.14,2215.14
+2013,85,Auburn Community Hospital,242,2,Major Esophageal Disorders,Moderate,M,Medical,2,21006.56,21006.56,6984.59,6984.59
+2013,85,Auburn Community Hospital,242,3,Major Esophageal Disorders,Major,M,Medical,1,30853.43,30853.43,11591.96,11591.96
+2013,85,Auburn Community Hospital,243,2,Other Esophageal Disorders,Moderate,M,Medical,8,7284.66,5794.45,2303.57,1831.53
+2013,85,Auburn Community Hospital,243,3,Other Esophageal Disorders,Major,M,Medical,5,16225.48,19192.36,5477.36,6097.65
+2013,85,Auburn Community Hospital,244,1,Diverticulitis & Diverticulosis,Minor,M,Medical,14,10061.13,7057.25,3281.88,2262.32
+2013,85,Auburn Community Hospital,244,2,Diverticulitis & Diverticulosis,Moderate,M,Medical,37,10966.19,8539.88,3345.75,3072.39
+2013,85,Auburn Community Hospital,244,3,Diverticulitis & Diverticulosis,Major,M,Medical,15,19468.57,12805.9,6402.35,3971.47
+2013,85,Auburn Community Hospital,244,4,Diverticulitis & Diverticulosis,Extreme,M,Medical,1,49541.69,49541.69,17372.49,17372.49
+2013,85,Auburn Community Hospital,245,1,Inflammatory Bowel Disease,Minor,M,Medical,4,10492.55,9994.34,3315.5,2972.81
+2013,85,Auburn Community Hospital,245,2,Inflammatory Bowel Disease,Moderate,M,Medical,9,10487.71,10267.68,3116.5,3006.35
+2013,85,Auburn Community Hospital,245,3,Inflammatory Bowel Disease,Major,M,Medical,3,13216.96,14949.25,4440.87,5207.85
+2013,85,Auburn Community Hospital,246,2,Gastrointestinal Vascular Insufficiency,Moderate,M,Medical,1,8299,8299,2331.74,2331.74
+2013,85,Auburn Community Hospital,246,3,Gastrointestinal Vascular Insufficiency,Major,M,Medical,2,31416.4,31416.4,10534.07,10534.07
+2013,85,Auburn Community Hospital,247,1,Intestinal Obstruction,Minor,M,Medical,16,10955.14,8673.25,3286.26,2604.06
+2013,85,Auburn Community Hospital,247,2,Intestinal Obstruction,Moderate,M,Medical,23,12223.32,11228.25,3778.96,3210.6
+2013,85,Auburn Community Hospital,247,3,Intestinal Obstruction,Major,M,Medical,12,22640.57,17995.36,7187.82,5803.79
+2013,85,Auburn Community Hospital,247,4,Intestinal Obstruction,Extreme,M,Medical,1,24257.17,24257.17,6745.75,6745.75
+2013,85,Auburn Community Hospital,248,2,Major Gastrointestinal & Peritoneal Infections,Moderate,M,Medical,26,12730.59,10326.47,4043.62,3197.67
+2013,85,Auburn Community Hospital,248,3,Major Gastrointestinal & Peritoneal Infections,Major,M,Medical,14,20407.31,15890.19,6829.52,5430.95
+2013,85,Auburn Community Hospital,249,1,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Minor,M,Medical,25,8117.62,5475.83,2307.44,1486.35
+2013,85,Auburn Community Hospital,249,2,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Moderate,M,Medical,34,9939.82,8458.38,2909.4,2455.41
+2013,85,Auburn Community Hospital,249,3,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Major,M,Medical,27,11259.68,9194.38,3436.12,3042.05
+2013,85,Auburn Community Hospital,249,4,"Non-Bacterial Gastroenteritis, Nausea & Vomiting",Extreme,M,Medical,2,36658.32,36658.32,11802.65,11802.65
+2013,85,Auburn Community Hospital,251,1,Abdominal Pain,Minor,M,Medical,7,5471.61,5107.75,1712.39,1258.27
+2013,85,Auburn Community Hospital,251,2,Abdominal Pain,Moderate,M,Medical,8,12076.59,11713.13,3342.67,3190.84
+2013,85,Auburn Community Hospital,251,3,Abdominal Pain,Major,M,Medical,5,9127,10777.39,2848.08,3310.15
+2013,85,Auburn Community Hospital,252,1,"Malfunction, Reaction & Complication Of Gi Device Or Procedure",Minor,M,Medical,2,8703.75,8703.75,2607.14,2607.14
+2013,85,Auburn Community Hospital,252,2,"Malfunction, Reaction & Complication Of Gi Device Or Procedure",Moderate,M,Medical,6,15065.12,14084.64,4650.42,4243.91
+2013,85,Auburn Community Hospital,252,3,"Malfunction, Reaction & Complication Of Gi Device Or Procedure",Major,M,Medical,5,12816.49,6688.25,4672.83,2527.78
+2013,85,Auburn Community Hospital,253,1,Other & Unspecified Gastrointestinal Hemorrhage,Minor,M,Medical,3,11058.67,8408.25,3813.46,2557.44
+2013,85,Auburn Community Hospital,253,2,Other & Unspecified Gastrointestinal Hemorrhage,Moderate,M,Medical,15,14448.4,13398.25,4746.93,4643.9
+2013,85,Auburn Community Hospital,253,3,Other & Unspecified Gastrointestinal Hemorrhage,Major,M,Medical,7,22550.07,21383.32,7614.58,7602.65
+2013,85,Auburn Community Hospital,253,4,Other & Unspecified Gastrointestinal Hemorrhage,Extreme,M,Medical,2,36229.87,36229.87,13171.81,13171.81
+2013,85,Auburn Community Hospital,254,1,Other Digestive System Diagnoses,Minor,M,Medical,11,10115.35,8155.44,3307.04,2550.6
+2013,85,Auburn Community Hospital,254,2,Other Digestive System Diagnoses,Moderate,M,Medical,12,11223.28,10153.5,3490.23,3036.73
+2013,85,Auburn Community Hospital,254,3,Other Digestive System Diagnoses,Major,M,Medical,6,17412.72,18139.84,5435.28,5612.79
+2013,85,Auburn Community Hospital,254,4,Other Digestive System Diagnoses,Extreme,M,Medical,3,39106.74,31311.71,13368.54,10703.68
+2013,85,Auburn Community Hospital,262,1,Cholecystectomy Except Laparoscopic,Minor,P,Surgical,1,30972.5,30972.5,9492.33,9492.33
+2013,85,Auburn Community Hospital,262,2,Cholecystectomy Except Laparoscopic,Moderate,P,Surgical,1,18172.19,18172.19,5805.14,5805.14
+2013,85,Auburn Community Hospital,263,1,Laparoscopic Cholecystectomy,Minor,P,Surgical,19,13760.42,14263.75,4637.27,4644.01
+2013,85,Auburn Community Hospital,263,2,Laparoscopic Cholecystectomy,Moderate,P,Surgical,16,18137.3,17453.6,6061.86,5807.55
+2013,85,Auburn Community Hospital,263,3,Laparoscopic Cholecystectomy,Major,P,Surgical,8,27289.98,26861.68,9068.56,9149.66
+2013,85,Auburn Community Hospital,263,4,Laparoscopic Cholecystectomy,Extreme,P,Surgical,1,39791.38,39791.38,13716.05,13716.05
+2013,85,Auburn Community Hospital,279,1,Hepatic Coma & Other Major Acute Liver Disorders,Minor,M,Medical,2,9151.08,9151.08,2799.45,2799.45
+2013,85,Auburn Community Hospital,279,2,Hepatic Coma & Other Major Acute Liver Disorders,Moderate,M,Medical,5,9821.48,7366.12,2857.4,1671.17
+2013,85,Auburn Community Hospital,279,3,Hepatic Coma & Other Major Acute Liver Disorders,Major,M,Medical,6,11238.62,10398.21,3790.5,3732.14
+2013,85,Auburn Community Hospital,280,3,Alcoholic Liver Disease,Major,M,Medical,1,14805.96,14805.96,4995.36,4995.36
+2013,85,Auburn Community Hospital,281,2,Malignancy Of Hepatobiliary System & Pancreas,Moderate,M,Medical,4,18483.31,18521.46,5981.61,5872.87
+2013,85,Auburn Community Hospital,281,3,Malignancy Of Hepatobiliary System & Pancreas,Major,M,Medical,2,17573.82,17573.82,5978.34,5978.34
+2013,85,Auburn Community Hospital,281,4,Malignancy Of Hepatobiliary System & Pancreas,Extreme,M,Medical,1,28906.3,28906.3,9207.9,9207.9
+2013,85,Auburn Community Hospital,282,1,Disorders Of Pancreas Except Malignancy,Minor,M,Medical,8,8900.19,8829.59,2561.05,2558.45
+2013,85,Auburn Community Hospital,282,2,Disorders Of Pancreas Except Malignancy,Moderate,M,Medical,27,15924.81,13203,4986.81,4099.41
+2013,85,Auburn Community Hospital,282,3,Disorders Of Pancreas Except Malignancy,Major,M,Medical,7,22702.17,9095.75,7250.21,2602.31
+2013,85,Auburn Community Hospital,282,4,Disorders Of Pancreas Except Malignancy,Extreme,M,Medical,1,20867.88,20867.88,6746.85,6746.85
+2013,85,Auburn Community Hospital,283,2,Other Disorders Of The Liver,Moderate,M,Medical,4,15780.96,13686.83,4920.43,4602.18
+2013,85,Auburn Community Hospital,283,3,Other Disorders Of The Liver,Major,M,Medical,1,37854.31,37854.31,10370.62,10370.62
+2013,85,Auburn Community Hospital,284,2,Disorders Of Gallbladder & Biliary Tract,Moderate,M,Medical,6,6732.25,7047.62,1957.72,1711.2
+2013,85,Auburn Community Hospital,284,3,Disorders Of Gallbladder & Biliary Tract,Major,M,Medical,7,20608.86,12555.21,6753.74,3722.37
+2013,85,Auburn Community Hospital,301,1,Hip Joint Replacement,Minor,P,Surgical,23,26022.28,26309.88,9910.7,10321.08
+2013,85,Auburn Community Hospital,301,2,Hip Joint Replacement,Moderate,P,Surgical,23,36286,30196.63,13379.26,11859.21
+2013,85,Auburn Community Hospital,301,3,Hip Joint Replacement,Major,P,Surgical,4,32675.91,33337.5,12602.16,12739.73
+2013,85,Auburn Community Hospital,301,4,Hip Joint Replacement,Extreme,P,Surgical,1,50068.04,50068.04,17280.83,17280.83
+2013,85,Auburn Community Hospital,302,1,Knee Joint Replacement,Minor,P,Surgical,28,35744.76,35810.88,14919.04,14877.37
+2013,85,Auburn Community Hospital,302,2,Knee Joint Replacement,Moderate,P,Surgical,39,36941.59,36229.25,15295.04,15093.85
+2013,85,Auburn Community Hospital,302,3,Knee Joint Replacement,Major,P,Surgical,9,43481.53,42253.75,17227.18,17354.17
+2013,85,Auburn Community Hospital,304,1,Dorsal & Lumbar Fusion Proc Except For Curvature Of Back,Minor,P,Surgical,8,29513.81,25554.41,12066.41,9791.81
+2013,85,Auburn Community Hospital,304,2,Dorsal & Lumbar Fusion Proc Except For Curvature Of Back,Moderate,P,Surgical,9,27369.75,22622.64,10608.5,8039.98
+2013,85,Auburn Community Hospital,304,3,Dorsal & Lumbar Fusion Proc Except For Curvature Of Back,Major,P,Surgical,1,27393.82,27393.82,9877.05,9877.05
+2013,85,Auburn Community Hospital,305,2,Amputation Of Lower Limb Except Toes,Moderate,P,Surgical,1,11635.97,11635.97,3558.53,3558.53
+2013,85,Auburn Community Hospital,305,3,Amputation Of Lower Limb Except Toes,Major,P,Surgical,3,33235.69,34035.7,11266.17,11011.55
+2013,85,Auburn Community Hospital,308,1,Hip & Femur Procedures For Trauma Except Joint Replacement,Minor,P,Surgical,7,26944.17,24676.31,9718.94,9483.4
+2013,85,Auburn Community Hospital,308,2,Hip & Femur Procedures For Trauma Except Joint Replacement,Moderate,P,Surgical,30,23553.96,23041.16,8175.13,8086.56
+2013,85,Auburn Community Hospital,308,3,Hip & Femur Procedures For Trauma Except Joint Replacement,Major,P,Surgical,11,32116.89,31331.72,11487.25,11484.53
+2013,85,Auburn Community Hospital,308,4,Hip & Femur Procedures For Trauma Except Joint Replacement,Extreme,P,Surgical,2,50003.44,50003.44,18329.07,18329.07
+2013,85,Auburn Community Hospital,309,2,Hip & Femur Procedures For Non-Trauma Except Joint Replacement,Moderate,P,Surgical,1,54961.94,54961.94,18832.76,18832.76
+2013,85,Auburn Community Hospital,309,3,Hip & Femur Procedures For Non-Trauma Except Joint Replacement,Major,P,Surgical,2,34784.15,34784.15,11803.88,11803.88
+2013,85,Auburn Community Hospital,310,1,Intervertebral Disc Excision & Decompression,Minor,P,Surgical,1,10381.99,10381.99,3468.06,3468.06
+2013,85,Auburn Community Hospital,310,2,Intervertebral Disc Excision & Decompression,Moderate,P,Surgical,4,19074.01,14737.82,7274.87,5154.59
+2013,85,Auburn Community Hospital,313,1,Knee & Lower Leg Procedures Except Foot,Minor,P,Surgical,6,20770.65,17888.4,6988.13,6227.48
+2013,85,Auburn Community Hospital,313,2,Knee & Lower Leg Procedures Except Foot,Moderate,P,Surgical,14,19355.74,17839.98,6615,6132.99
+2013,85,Auburn Community Hospital,313,3,Knee & Lower Leg Procedures Except Foot,Major,P,Surgical,3,20548.56,16247.94,6659.23,5646.35
+2013,85,Auburn Community Hospital,314,2,Foot & Toe Procedures,Moderate,P,Surgical,2,19301.74,19301.74,6430.62,6430.62
+2013,85,Auburn Community Hospital,314,3,Foot & Toe Procedures,Major,P,Surgical,5,36475.31,33740.66,12217.08,11508.14
+2013,85,Auburn Community Hospital,314,4,Foot & Toe Procedures,Extreme,P,Surgical,1,59077.37,59077.37,21036.75,21036.75
+2013,85,Auburn Community Hospital,315,1,"Shoulder, Upper Arm & Forearm Procedures",Minor,P,Surgical,4,6513.42,6540.72,2217.14,2238.78
+2013,85,Auburn Community Hospital,315,2,"Shoulder, Upper Arm & Forearm Procedures",Moderate,P,Surgical,17,26781.96,26329.23,9820.8,7978.3
+2013,85,Auburn Community Hospital,315,3,"Shoulder, Upper Arm & Forearm Procedures",Major,P,Surgical,1,53677.61,53677.61,19919.23,19919.23
+2013,85,Auburn Community Hospital,316,1,Hand & Wrist Procedures,Minor,P,Surgical,1,6634.75,6634.75,2321.81,2321.81
+2013,85,Auburn Community Hospital,317,1,"Tendon, Muscle & Other Soft Tissue Procedures",Minor,P,Surgical,5,16425.3,16543.75,5663.67,5689.89
+2013,85,Auburn Community Hospital,317,2,"Tendon, Muscle & Other Soft Tissue Procedures",Moderate,P,Surgical,2,23802.07,23802.07,7646.99,7646.99
+2013,85,Auburn Community Hospital,317,3,"Tendon, Muscle & Other Soft Tissue Procedures",Major,P,Surgical,2,15123.53,15123.53,5171.4,5171.4
+2013,85,Auburn Community Hospital,321,1,Cervical Spinal Fusion & Other Back/Neck Proc Exc Disc Excis/Decomp,Minor,P,Surgical,8,18410.44,13030.28,7391.93,4708.26
+2013,85,Auburn Community Hospital,340,1,Fracture Of Femur,Minor,M,Medical,1,14536.75,14536.75,5496.39,5496.39
+2013,85,Auburn Community Hospital,340,2,Fracture Of Femur,Moderate,M,Medical,5,15457.24,13598.17,5270.26,4662.43
